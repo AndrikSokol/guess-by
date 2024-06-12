@@ -1,0 +1,4229 @@
+ [
+    {
+      "panoId": "CAoSLEFGMVFpcE51MTNtdVZXdnZ0dGpiamJUNXh2dmMtTHc2bVVJMWY3UjNxRWN6",
+      "lat": 53.8584331,
+      "lng": 27.6188279,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1UeGFvQTBHQlpOMldEcUJ5cEdSYU01b21Sd2puTFFRUWhqOWw0",
+      "lat": 53.8784917,
+      "lng": 27.4659318,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1hV254M2VJek9vTC1MZ3o4NjZTMWVmdkplQlJSd3VBNmxmbHA0",
+      "lat": 53.8837875,
+      "lng": 27.5148752,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1wbm9Ra2stVlllSW94eFY1cUdJWTBiVWx3M09FZ29zSkxxY0JP",
+      "lat": 53.882424576064075,
+      "lng": 27.498586179399013,
+      "heading": 90,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": [
+        "CAoSLEFGMVFpcE9kMTJJdkI5b0JzSGhrWmdBcFdXU25CbEJtTWI4ZHE3TFlKYkdD",
+        "CAoSLEFGMVFpcFBMNWpwQ0gxMUdQT05CX25qai1yWFNuS25MeE5UT2pMQ1BNT2pO"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4yOW1Na0p0V3ppdjRyUE9raGtlN09CT2VpWTdURTJjLXotYWhp",
+      "lat": 53.8798532,
+      "lng": 27.512172399999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2015-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9zSVpjeXNjbWJxQllVM295dXByYW01Yk9MY2xTbzlPdy1Fekhk",
+      "lat": 53.904483799999994,
+      "lng": 27.6564579,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9pOUFDN0UyYmR0cG1QR084Rm5TbHowYlhTWXp4cHRhYUpaTDNp",
+      "lat": 53.885311099999996,
+      "lng": 27.5885639,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBidDNOS1RJUk42YVZUMnBZYk5id0V0TWFmYnZtb1lteVFsQ0dC",
+      "lat": 53.90212127448566,
+      "lng": 27.625291205724807,
+      "heading": 146,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": [
+        "CAoSLEFGMVFpcE5fTkZDYlJadm1qSGVVM2tHT3NXMG1SQ1NINV9LZkEtRHdyOU9F",
+        "CAoSLEFGMVFpcE9Qa1ZBMkVSalJrRVdvN1NSekprOUYtVkFwal9ZemtOMi1kYzRF"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5vaDczaF9xbTFrUm9nYTFyUjlQTUFpM1AyaXNoZTFvaEFiaUhH",
+      "lat": 53.942833,
+      "lng": 27.645239099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9tWXNCVEJ6S2VoOFZlcVNlbkRtVHppSzBtQkZqTGRTVVYwd2ZO",
+      "lat": 53.8527473,
+      "lng": 27.5615199,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBLUDFnekdqck1zWDhjWHBBdGJiV2FRSElDNjZKMlM3NGtPcVVF",
+      "lat": 53.88596148318518,
+      "lng": 27.564757026263596,
+      "heading": -4,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": [
+        "CAoSLEFGMVFpcE8zbm13clEtSkE4cy1jNGlfMzg0QkprN25Ia0xFSDVISG5hVWps",
+        "CAoSLEFGMVFpcFBIMEJZNTZqZV90LTJUcU9rMTVjZHZScG9mb09JQk1FLVNISkpU"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9OWWxXdDBOeVNyRi1xNG9jWi1lektrR1BRNS1xR1BPOFc3U1ll",
+      "lat": 53.8814849,
+      "lng": 27.5348667,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9PLVk4WGlyblh2bHRkOXhUem1HdUdxS1RJNzhzbGl2RjFEaExX",
+      "lat": 53.9177128,
+      "lng": 27.6215937,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE03TFNCaUh1RkZjMEhmMndRY0F3TEQwMXJzZTFla1V1cW1kX2Iz",
+      "lat": 53.9409684,
+      "lng": 27.5903051,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9fTTNDQkRFa2ttQU1NM3dfYVMyYVFZNTg2aTVST1I1cUVPOW00",
+      "lat": 53.8485947,
+      "lng": 27.5907497,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBZWklUb0g2STZfLS15U0xCaFEwTl9RbkwxRFFVbWtFQjJDa2Rn",
+      "lat": 53.9074562,
+      "lng": 27.511126400000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9KRG85WWJ0LWRMU1lnejBMVFAzRGFTNkxHZkFnbmVPYmxXVGdt",
+      "lat": 53.899253599999994,
+      "lng": 27.474113199999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5oMmF6X1poQUxya3dSangwY0FrbG5rZGloSXRNczdxcGVqTWNZ",
+      "lat": 53.877840600000006,
+      "lng": 27.569804899999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5YaUhnUFUwNlZSaDBGSV9mV0N4clRYNlUxZlh5Ul9rclRaRl9H",
+      "lat": 53.905691,
+      "lng": 27.4491591,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4xNFA5eWdFYkFkX1RXSFhRQ3B3d2Z1WjJVcmhKVmhFQ0hDRWxt",
+      "lat": 53.888802654144484,
+      "lng": 27.619560451594566,
+      "heading": 14,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": [
+        "CAoSLEFGMVFpcE16bjVlN29wb08zZm9SVXBpUG1VV1RLbHdjLS03SWhPOUwzQkNt",
+        "CAoSLEFGMVFpcE5Rcm43aTFuMDNDNWFFSDBzOWdCRDhycDQtUUJpdlRFbHdCNzA1",
+        "CAoSLEFGMVFpcE9ocWt6NHZMc2c3RVE0eDJ4TmpmcVlDOW5JMk1Jb2dsdGZHSkdS"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9TcEZ3QWdRWGRUcHA1aV9zTk9veVhsZUdlUHl1NGhtMVUyd25n",
+      "lat": 53.905296299999996,
+      "lng": 27.4919281,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE96cVBLb29IRTE3a2t3eHdhdUlEYnB4X3RUTjBXTmFJcG56YjZy",
+      "lat": 53.883364799999995,
+      "lng": 27.511946299999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1Rb3pHSzJwT1N5bnpOd0xNNXhSRkl1VHFpZEpYSTJrMDdrYkhY",
+      "lat": 53.9275672,
+      "lng": 27.6503163,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBqaDJTdW9ITFo5UXp6ejFhRzk3dG9MM0xCSHo3TlZIOU50VElP",
+      "lat": 53.877758299999996,
+      "lng": 27.512712,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5uWU5VQzNZb3F1S2YwVHBvdTZFbHB5M0lkbXJjMnVGWXhqcmZV",
+      "lat": 53.879312,
+      "lng": 27.4900314,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE13SDYta205cWhvVk1EaFJuRmhJSkFVTmpzcE9Sa1Q0bjZuUlFK",
+      "lat": 53.891757999999996,
+      "lng": 27.5575829,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE82SmtXN0FNM2R0MFJVS3pCTzJoSkdtZ1ktUVc1aEgxTmdaSjh2",
+      "lat": 53.887566,
+      "lng": 27.649159899999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBrZkx3LUMtRlBhdlhPdlNJTjhSa1hjb2dPdGhKOUZnMnppTGJv",
+      "lat": 53.8791343,
+      "lng": 27.6478151,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE81UVUzZ1dqbDhvRlJJN0diOUtuUXdmRi1ESzJZeUk5MDg2TzNa",
+      "lat": 53.939857499999995,
+      "lng": 27.527187299999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5YbmZibmVucUFaTXYwYUU1V3Y1Rmc2UUhXSmd6S0l0b0lNOTB4",
+      "lat": 53.9132945,
+      "lng": 27.4482304,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9tUmxxQUViZDMtWVZVUmdUdUhoME9mX3lfZmxYNnZQSGMzc2RO",
+      "lat": 53.85256294525915,
+      "lng": 27.617112785309587,
+      "heading": -67,
+      "pitch": 10,
+      "imageDate": "2016-02",
+      "links": [
+        "CAoSLEFGMVFpcE05Z016a0xVU0VaR3hEMlYtQmg4M1AtTnFPelZHdjg3dHBuQVNT",
+        "CAoSLEFGMVFpcE5udXNLZVF4ajlfdWlOX3ducDFkXzU0aGtndlQwdWs4MVYzb0JU"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5sZ0t0YkR3LUc3MlZsN21jdUQtNFRYRWdXRlV2aTJxR1FGY0hQ",
+      "lat": 53.9570922,
+      "lng": 27.535307999999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcE50M09Sd2FON09KdTNwejlLeTRhN285RE5KRWE4MWttRXMzVHM.",
+      "lat": 53.8996564,
+      "lng": 27.6188109,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1JRnRZLXIxcm1nVXotdEI4TS1icjNENUE5UmFnTDk5d3JmN2Jt",
+      "lat": 53.866970099999996,
+      "lng": 27.645774799999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9RZXg4TGVVWTZuX1JhOUhvUTNRSEg1Y0ZUa2U2SWxJX2hoU3J0",
+      "lat": 53.89807856053534,
+      "lng": 27.45620960953844,
+      "heading": 138,
+      "pitch": 10,
+      "imageDate": "2022-02",
+      "links": [
+        "CAoSLEFGMVFpcE5ZLWZFeDdRUXJGU3EtLS05X0JUbDFwSUpLaXJqOC1PYThiMWto"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4xdzBkeXNFbDMzTEU0dEZtTmZBbUhXZ1VpS01lOXRPTDVMRkkz",
+      "lat": 53.902921497578824,
+      "lng": 27.454372979700565,
+      "heading": 121,
+      "pitch": 10,
+      "imageDate": "2014-04",
+      "links": [
+        "CAoSLEFGMVFpcE5aeS0zeHdiZElBOVAxenV4R2N0WUhkcVRVbVNlY1BJLVViUzM2",
+        "CAoSLEFGMVFpcE8tVkZUVDUtMXFMSGRqSVVVYi1YdFNhQlkyblFieVRraEZHcURL",
+        "CAoSLEFGMVFpcFBqSGhEbjJDY0NBZGI5MHZaSXhtdUJGay1xYXE4ZFhIOXoxT2tV"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE41bjhnQmVLVGNkQTlhS3ZQUnFwcXExS3JocUoxX3FRNlBEejdL",
+      "lat": 53.8639259,
+      "lng": 27.5172138,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9BV2Z0UjdzWGtZWHBuT3RRVzlaUUlOenZ1QVQtYTVya1dfenli",
+      "lat": 53.866922499999994,
+      "lng": 27.5901073,
+      "heading": 45,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": [
+        "CAoSLEFGMVFpcE43SjJFelRWaGI1bnJ4SFBsXzZHczJTZmFYVDAyaFFJdnhTZnF2",
+        "CAoSLEFGMVFpcE56ZlJJM2x2SzdHUnAxWDRVVFNpSVBHV2RPNElibVVOV1VHUnFj",
+        "CAoSLEFGMVFpcE5YWC1KcEJ3QS0wUVkycDMtTTNFbTY1STRLYWxsSUNkLXRQeTFB",
+        "CAoSLEFGMVFpcE91dnJzMEptbHdBM2JTTUtXM3YybWJraFhNcERxWUJOSVhHMERF"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1HVkwxOXRldzEwRVNJQmY5RU9pUDJxTFZnNEh0SVQySWozdzJi",
+      "lat": 53.9332816,
+      "lng": 27.5015475,
+      "heading": -38,
+      "pitch": 10,
+      "imageDate": "2021-02",
+      "links": [
+        "CAoSLEFGMVFpcE5fS1cxMjBwaHpiOHZtRWFlT2ZKb25uZjRmazZJTkxnaUJtTEtH",
+        "CAoSLEFGMVFpcFAtUm9paEdpMjV4b3Y2SlgtWk11RFNBbTg5SWlPd25NSmJSRVFs"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1Fa01zRU1BRUxWdEhyclQ0OEo0dVE2bTd4NUMwTUFZVnpzeGhW",
+      "lat": 53.8993073,
+      "lng": 27.665603599999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5sTm9FTjFKV0xTRXBYbnJpN2ltVEJtMFVMQVhOOURISVZDSGNh",
+      "lat": 53.882504320201505,
+      "lng": 27.520346313526534,
+      "heading": 158,
+      "pitch": 10,
+      "imageDate": "2023-11",
+      "links": [
+        "CAoSLEFGMVFpcE1PM1pnZ040ZDBxX1V4SURTUUJ3YTk4UUwwZWdCLThFR2tJNml5"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9fTGIxM25ORkVuOG96S1hicFk5VTlfMXhjV0lYc2hfZnNzV0FY",
+      "lat": 53.8553238,
+      "lng": 27.635042199999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE55Smh1UWtQbi1DTWktaWhVMnpDdTA0bW9IMEkyaDhCQl9sVG5k",
+      "lat": 53.865225,
+      "lng": 27.506797000000006,
+      "heading": -125,
+      "pitch": 10,
+      "imageDate": "2018-10",
+      "links": [
+        "CAoSLEFGMVFpcE44c0RqTFhuZ3I2YjBObUhhNmxUNnFnMnJlQnZFcFp0RmIyUW9w"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5hLXNsR0taVU9NSG1ubzN6UFcwUWU5RnQ5eUx2OGhlZjZBRHRy",
+      "lat": 53.865593,
+      "lng": 27.6445522,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcE1hbEtMUm5iLVVfR0c3ZVZ1V1l0c0hzMk5YeWl3ZWtmbThtVEk.",
+      "lat": 53.9400907,
+      "lng": 27.585291599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE85c2E2UXR5Z1ZNcE5mTnhLc3JCTG9LMVJzeU9hSkppUEJ0enJi",
+      "lat": 53.86949519895404,
+      "lng": 27.505621973175792,
+      "heading": 110,
+      "pitch": 10,
+      "imageDate": "2023-12",
+      "links": [
+        "CAoSLEFGMVFpcE53TUNnRVhvNS1MS05aWTc3WloyQmFpNUhSVDlCNkhQdnBMdXY5"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBwMGFxb2ZGWVZNcndvTXpmY3ZIU0MyRWFUUFBQdHN3cFU3cERG",
+      "lat": 53.9518409,
+      "lng": 27.5498074,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1MMktodWM4VkozcHREUGpPc0cwalEzb09GMHpKNEZvWWtQT3o1",
+      "lat": 53.914924799999994,
+      "lng": 27.662554,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBVN2RZUm51cWRvQXA4M3NUYW9UVUc2b0s4X3ZNR1NHaUVtLTl5",
+      "lat": 53.89209151610553,
+      "lng": 27.529255029430374,
+      "heading": -51,
+      "pitch": 10,
+      "imageDate": "2017-08",
+      "links": [
+        "CAoSLEFGMVFpcE5TSWQ3WWdzbGZ3WE9LdEpSQjktUmxSeUhFajRvRDNyZlBoX1Zo"
+      ]
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcFBtT05Sczk3bDVQRmlQVDVUeTkxdnlXemZTR2VuQjRSWnVnNEk.",
+      "lat": 53.9345879,
+      "lng": 27.5532979,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5kbEpvOTh3Um5vaVh1RTlpZTZLYURQVnoyUVRwZ2RQS01tN0wy",
+      "lat": 53.130997300000004,
+      "lng": 26.071959699999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5rRWw3WGJKa3BCclp2TEx3dE5fa3Zhck5QWmExY09TUVkxSVFU",
+      "lat": 53.116553599999996,
+      "lng": 26.0199309,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE92b3Ftc2NJOFRQWnVkdHFuenBaLXV0cTAxeGpETGRDRWIzMkls",
+      "lat": 53.120280099999995,
+      "lng": 25.9590735,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1IckZ1QlZhUGliZmFza0F3cnFRS1RxM1M5QXFKVWsxdFB2S21q",
+      "lat": 53.111255799999995,
+      "lng": 25.9857423,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1OOXc3bWJ4VVA1Tjg4VXJQbjNDaHA4QzZablg5SHY5OURlR2ZK",
+      "lat": 53.125297499999995,
+      "lng": 25.9929103,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBhUkZTQlc0T3BUakphVWZzeVBQSGtINFpBT2h2UHdOZmVHUVFM",
+      "lat": 53.1507775,
+      "lng": 26.020308699999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1LM2RmYXBnY1BaclZHQl9qOXNnOEdaLTZSOFpZNWxUZ1lJdXNy",
+      "lat": 53.12833649285834,
+      "lng": 26.003463193774223,
+      "heading": -28,
+      "pitch": 10,
+      "imageDate": "2019-12",
+      "links": [
+        "CAoSLEFGMVFpcE9BUmpfM203ZFFFbDVNbXRsWVBUc2dSa3NOemVRa2tfU201QXFZ"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5PRndOdVRzdDMyR0NzVTdRRm05cjRGQ1cxSERvVnZjcjhTQ2FQ",
+      "lat": 53.13242656680892,
+      "lng": 25.99100198596716,
+      "heading": 88,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": [
+        "CAoSLEFGMVFpcFBIUGpNNm5wRkwwaTFkQ0N0WS1QWmV5M0xzTHJIREc3eElJS3Fa"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1ESVNaVGIzdDdJSC1BU3gzTTk1RTVGbGVPQUZYOXU2SHFXSmxD",
+      "lat": 53.112151499999996,
+      "lng": 26.0193615,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBQZ1c5YlVvTHNZdDZXWk1PMmc4ZlpHSnpvTGlFR2F0WmhodDdL",
+      "lat": 53.1278164,
+      "lng": 26.0011053,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9wV01VbDdsM0d5LWlvd2JKQ3I2TmNnLTNPYms4bEJWTDZwZThj",
+      "lat": 53.142849000000005,
+      "lng": 26.0328064,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBpOXprQnVKaUItckxtODcyVUk1d1Z3MHAwRV81VXB1bHFBYWt5",
+      "lat": 53.1194343,
+      "lng": 25.9785453,
+      "heading": -40,
+      "pitch": 10,
+      "imageDate": "2022-06",
+      "links": [
+        "CAoSLEFGMVFpcE4wMGZhUmc0NTFCT0hrb1p3MnZURGxmRW9Qc1dtSzMtajA0czZx",
+        "CAoSLEFGMVFpcFA2Yy1Ra2VrcUpQQTdya1NEV0pkVVE4V0RUQktQUFhkVVBYdHN4",
+        "CAoSLEFGMVFpcFB0TlM1SDQ0S0NFZnY3dDRmbXQ3R05IMy04c1ZYUUZDbWlwdmk3"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBialctNHZUT1FrZ2w3SmtEWGxiQWw0N2wxRW1IdU1CcFVRZ3RP",
+      "lat": 53.116595499999995,
+      "lng": 26.010455099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBhZUxVbUQtdXQ4SktPRzNMSDducUNQb2hhVHpCQ2dwTFNpQWMx",
+      "lat": 53.121186400000006,
+      "lng": 26.0323847,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5hWl9yNnlHY05hdGN4NXVMUHpBa1hDSnZjR0hMNm1FMGxYMld4",
+      "lat": 53.12509399324626,
+      "lng": 26.073294128657768,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE10WXpJTzVqWWIweGtLaXFMZnRkYzlIQjVKaUxteWV6aEZwSWRx",
+      "lat": 53.112960799999996,
+      "lng": 26.024352999999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9JR0cxaDB5UkxjXzdOVnRLeWZXR1EwZUZBWVRjRTJXUlp3bUcy",
+      "lat": 53.139293599999995,
+      "lng": 26.002210599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1HZEt2YWpjQVdvWnJTSGZOeWhKSHJFU2RzeGNwdkt1SlozbEVv",
+      "lat": 53.1289856,
+      "lng": 26.0311229,
+      "heading": 80,
+      "pitch": 10,
+      "imageDate": "2023-09",
+      "links": [
+        "CAoSLEFGMVFpcE1PZG1PalpWZ1I3X1JMdEVycHBDUGRvbHJFTGNPWllrNk43a0M4",
+        "CAoSLEFGMVFpcE1yQmFqUVRtNmdSUFliZllHY3RnU0oxZ0NRMTBCQVZ3YXV4WU9t",
+        "CAoSLEFGMVFpcE5wVzdETG1zTzJUeGdLTUt5Q0N6U0R4RWJiM0pwTlhfd0JNOUxP",
+        "CAoSLEFGMVFpcFAxbnBXU24zMGdKeFdBQklDUzV1SVRtaW5NY1pwbEd3WnRTNmQt"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9BZEhFQTNMT1E1dXZ0Skg1V1R4QVFaNUI0SFh6ajRYZVl2eUNK",
+      "lat": 53.119486699999996,
+      "lng": 26.0182248,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9GSG5UaG5rb29pbzZqM3NGMVM5VEpjX20ySUZkeDJGVGtBNGg4",
+      "lat": 53.1205639,
+      "lng": 26.0163157,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5qemJ5b3ZTM3VJU0VIbUNScXBVUDZsM0M3ZmFPVWh2Rlh5Nl9f",
+      "lat": 53.136779499999996,
+      "lng": 26.0182142,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5kRk5aRUdrdk9TYmtSNng3X2o4elJpZXVhUXNpdVlqeUFNa0ZX",
+      "lat": 53.127334499999996,
+      "lng": 25.9996981,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1iRnpKdk9ZeHdzcmVQWEZQSDA1Nmo1ajI4MEhSVzNUcUU0cHR0",
+      "lat": 53.1081486,
+      "lng": 25.976615499999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9KakxoMXp5QVRVenRJNjZOT1hONGd3SHRnRTNjYXI0QktHWmRI",
+      "lat": 53.125375999999996,
+      "lng": 26.039365699999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBUWGhvZTdmcldPUWU5ejZ0TjlRc1Y2Rmkxb0dvQmxkdFl3M2xw",
+      "lat": 53.117413338017656,
+      "lng": 25.973185387372222,
+      "heading": 54,
+      "pitch": 10,
+      "imageDate": "2023-07",
+      "links": [
+        "CAoSLEFGMVFpcE5pREtkb1BFR3NrZW50WVhNUEhraGRFaW1odEd4U0FwNEFyQS1Q",
+        "CAoSLEFGMVFpcFBFTWE4dFNnN1JiVWNIVzdRdFhJMEtaUXNGNF9lVVUtOUVFMlVf",
+        "CAoSLEFGMVFpcFBZY0VGb1lYaVJySmNpMmZJUnVRY25QcS14aWd2M1dXa09SckxB"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBMQnptRWtucWJMaFR0NnEwT0NvLWZUVC1fanp2N3B3WW9BS2Zj",
+      "lat": 53.131589999999996,
+      "lng": 26.041322899999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9KcVNycThqOGlMaXIzQzd4bHM4LUpKamlWM2xFckRfaFE3MTVQ",
+      "lat": 53.136140999999995,
+      "lng": 26.0107079,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE0ybzZ0YlZKRmM2NFhPVnBCLXdXWmJqT1RpQ0w5bGFnZ0U0YjZ6",
+      "lat": 53.1084635,
+      "lng": 25.9893064,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE8yRnp2elROSHlpM0tlYXdOLWNWRzV1Y0taVWQtY1NPNldOaDZI",
+      "lat": 53.12856,
+      "lng": 26.0191524,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA2UnBhQ2o0SWdtd0M3WmwwTm4zcEFVbkhReTBuTUJleldtU0xR",
+      "lat": 53.132348518677375,
+      "lng": 26.024520881474015,
+      "heading": -4,
+      "pitch": 10,
+      "imageDate": "2020-01",
+      "links": [
+        "CAoSLEFGMVFpcFBVVm1WM1Fxd0ozeXBCUkhMRnQ1RWxDb3B2SzVDdGlaanV0amY1"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBVZEVVM0hlVjVFT3BadTluT19vbXFYZzU5Zzk5TjgyNjlVSUZH",
+      "lat": 53.1169614,
+      "lng": 26.0335182,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBOazFXN0NuNXNjd0JBcWdJRW92VEgwbU1KWTgwdGhPdUEtVDk3",
+      "lat": 53.1144865,
+      "lng": 25.9691484,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9LYUdKOUQtZS02RS1VcWZQZVQxUFRBWEh6TW00al9HSVBmWVcw",
+      "lat": 53.133902500000005,
+      "lng": 26.0110486,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE02MWJ0Y252UnFUcTJOS0VQcmpDQjktTTNJWXZ3ZU5WODB1aWsx",
+      "lat": 53.1323424,
+      "lng": 26.024617,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5TcXJfX2ZvVWJPNzhRNWRTMFQtTlpGZTJLdjFaYnB2ZUh2ODJG",
+      "lat": 53.1091142,
+      "lng": 26.0107024,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1FZ0RpbXQtek9TMC1RN3lkV0loYlNYcTdkQTFEaEdKYmZUZGN3",
+      "lat": 53.1110725,
+      "lng": 25.998958500000004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5CVE5QT0E0VjJUTmxkekZiWkx1dFVlY1lPWG8xb1N2QlU0aDZ1",
+      "lat": 53.133206799999996,
+      "lng": 26.0473188,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBidVk5M3FOR1VFa19QNjRUWjN0TlBBWTktVUlWZmJ5cER5V05J",
+      "lat": 53.117117799999995,
+      "lng": 26.0251676,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5OUHZnWWFLejRERkJCMjI0OWZ2R3c2SWUxVEswb3NPaHY2VG92",
+      "lat": 53.1239989,
+      "lng": 25.999641999999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE56WmNNT3VrTlpkWk9XQ1VyRmFYZEVMcWhFV1hkMW1xSTNpZnFI",
+      "lat": 53.1482519,
+      "lng": 26.039402400000004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1QSVpKa0M5ZHBwYWR1NVZuOUhKaF9pTlpfbGVmRldpMU9ud0hz",
+      "lat": 53.13324970000001,
+      "lng": 26.076142100000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9lOFc2M0ZWdFFIbG5waXJRcmhfTWdOaGZLSUF2TTZ2Q0d0anJJ",
+      "lat": 53.111758699999996,
+      "lng": 26.018566099999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9YNHFrRmlmX3Z1cF8tQmhQZ3lPUjNlQUFyWGhEUXJmNWluanFS",
+      "lat": 53.1239889,
+      "lng": 26.0329065,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE92ZzROV0RtT0k1bDZreHIzNUlhd0FRNTkyXzh4UDQ1MHY0Q240",
+      "lat": 53.118371430115396,
+      "lng": 25.995163212525433,
+      "heading": -8,
+      "pitch": 10,
+      "imageDate": "2020-06",
+      "links": [
+        "CAoSLEFGMVFpcE0xaUR5cmd5LUZuUlZwNkZFbTNqb1RuaHVfaFhRZXNfblJCLVF6",
+        "CAoSLEFGMVFpcE1rSDhmN3NnRW5QODE5Sm1odW8tVGtpMm11SkVTdWNzT0FZcktO"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE14MFYzRnVCckltXzFWdGJtdWd3akxJLTRBdW9LaXJ2Szk2SkZi",
+      "lat": 53.1141812,
+      "lng": 25.9692789,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4zbzVHV2JPLWtudEw4SlQyRnFYZE9COUZHWktlekFGSHk1QjlN",
+      "lat": 53.124499300000004,
+      "lng": 26.0391165,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB1a1JuOTcwMFFPdnJJSGlzZmd4UU1lMHFfZ0o4enRERTZlYlo3",
+      "lat": 53.1518893,
+      "lng": 26.026794199999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1FdWpiM0tWeGlLazZLQXh2bkFSTFQxLTJnVkEydEY0bFNnVlVG",
+      "lat": 53.122559385897326,
+      "lng": 26.043109859139374,
+      "heading": -120,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": [
+        "CAoSLEFGMVFpcFBsR0l4MjhBNWJpaVBCenBQZ1VzT0JjQzhoZi03TGJPMkphUXVL"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBhMzlXa1dKNENJd19pZVM0Y3JReHRJRXRiekVUbmtIalRGTXZT",
+      "lat": 53.151815799999994,
+      "lng": 26.0267244,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9tRVo2M1J3SVhtRHVuUXc5MTQ3UGZBQTRTbmFHMGlBeXFKZi1f",
+      "lat": 53.151500399999996,
+      "lng": 26.030086999999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAxX05yellrWF91WFpXZnB4cEE4NHM5eGpzYTF3d3lKWnhaWmhP",
+      "lat": 53.6695236,
+      "lng": 23.8597312,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5hamxSaktNSzlGWTVrMWZGa2hraHlQam4zMExkdmtuMmthRmZD",
+      "lat": 53.648461,
+      "lng": 23.8017097,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE52SWNzTGQwdGhWUGZ2Nk5nYmdSeksxcjNzMmw1bE90QTFOTmUt",
+      "lat": 53.6632275,
+      "lng": 23.8399117,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9fd1ZOTF9UdWw1aWVVWE1UV1dnUjNDeWJKS1hSWVJOc0JMSmVR",
+      "lat": 53.672717299999995,
+      "lng": 23.777788299999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBGa2J0REJ0Y3Y0UFdrQ0V3SVZwclVnLTNjMGVDUERQZ1JTUHVa",
+      "lat": 53.66466060189064,
+      "lng": 23.7686902727245,
+      "heading": 162,
+      "pitch": 10,
+      "imageDate": "2017-06",
+      "links": [
+        "CAoSLEFGMVFpcE1NSl9PLXJ3aFIzVUtNdHY0TzN1ZTNyeWI2dkNnU0M1eUh6bnJa"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9yOGtWZF9NRC16MUR2NEFJbFNYMDhWSXhKdFh6QXlwYW9jdERx",
+      "lat": 53.682334,
+      "lng": 23.8224202,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE85ZkVjZ29jRUZxc2gzMDJYZ2UyT2FGT0FZbTlId1BWNjlIUzFB",
+      "lat": 53.70765311060267,
+      "lng": 23.82945165038109,
+      "heading": 156,
+      "pitch": 10,
+      "imageDate": "2018-02",
+      "links": [
+        "CAoSLEFGMVFpcE1aM0pqcXRhMG1UaXJYam1KeTVYekRfZzVfZS1IZFVfckNuYjAz"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBiWmk5STZQcXJjV1ZfYjNBQzRJd2UyeXZ1a2U5d2FmQ0dYYlpk",
+      "lat": 53.6623942,
+      "lng": 23.7793583,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBxTWRJZWxLRGpXUWpQWDlMRnVCLUdFendTeTMtWFBGOEN4Zlhn",
+      "lat": 53.6724058,
+      "lng": 23.8012449,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9SUmdnNlF4QS10NkJ0ZmlWd0R5WTlUcXVkTWdmMUxTekJlRmZF",
+      "lat": 53.695394099999994,
+      "lng": 23.8095352,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE45M3NoZlVTTVdVZFkySmJBaFhIcDk5NGdBcGVYR0pGYnhWZGNZ",
+      "lat": 53.6908971,
+      "lng": 23.823974900000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1vQ01McGUtRXVOSkJNQmxkTWZqSGVVUzZZbTZrcVVLQW9rUjls",
+      "lat": 53.672439999999995,
+      "lng": 23.863090999999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1WRUltQVg0aTlOREtnQk9sNzMwRHlvSjBGUGl4RHdVUWFsWGlN",
+      "lat": 53.6810281,
+      "lng": 23.8159749,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBLTDM0RFdmNFRreGFTWkE2a3JTTkVqUkJnNHNadldheFYzazlv",
+      "lat": 53.670736899999994,
+      "lng": 23.82667,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE80TXZYSzlaemwzYUtYbmZ6U3owcWU2WThkdllibUNDRFcwVEJV",
+      "lat": 53.7055127,
+      "lng": 23.8303893,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBCNG5YV3BEcmc0Z09jRUF0NUdrZktKYXduSnVoS1I0RlltSDM5",
+      "lat": 53.6953762,
+      "lng": 23.838971599999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE41T21TRndwT2x4WW1XWENuMUl3Yko2cTVKcXIxWFZZSlpFWlVu",
+      "lat": 53.6845619,
+      "lng": 23.856503999999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5POVlldktSdVpXUkZ4dmtFOFl3bFVpYzZJaXJMdVBwR0VvRGRh",
+      "lat": 53.666051203384235,
+      "lng": 23.813448194469856,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB3d09MdGktS3V2Y1h4TWhZZUdIODZUalZqeWxrMGpFTVc3amNl",
+      "lat": 53.6659436316184,
+      "lng": 23.813680049792993,
+      "heading": -14,
+      "pitch": 10,
+      "imageDate": "2016-04",
+      "links": [
+        "CAoSLEFGMVFpcE44b25ReUZGMVJzVXVNNEtrYWRtdmw1Ti03N2dUb0ZJaERRSkhO"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBRbmsteS16a05xUjZlM2IzaWhJOWNoa1NvLV9FTHZOQUhjcjFs",
+      "lat": 53.68399557,
+      "lng": 23.84550735,
+      "heading": -44,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": [
+        "CAoSLEFGMVFpcE5MeUNNcXFZQll5ZE8xblA2eS05Z3puUmFjcXJjMXhQRFlDYkk5"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1QbjJnaDRvMXZFYjVhdzdBeU4yMVlzVWo4V1B2UGZPOTRoSzBS",
+      "lat": 53.66602929957318,
+      "lng": 23.81377143771965,
+      "heading": -104,
+      "pitch": 10,
+      "imageDate": "2016-04",
+      "links": [
+        "CAoSLEFGMVFpcE44b25ReUZGMVJzVXVNNEtrYWRtdmw1Ti03N2dUb0ZJaERRSkhO"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5BczdKOWpzeFhLMjRkZGFGYzhjc3JWRnJHR2hMVXB6WFdwRGVP",
+      "lat": 53.67987365176317,
+      "lng": 23.826512469347108,
+      "heading": 5,
+      "pitch": 10,
+      "imageDate": "2020-12",
+      "links": [
+        "CAoSLEFGMVFpcE9RZFpvS1RtSjYzcG50MEJNS3dldzdoRkw4WUNvX0hRU3dsNXdu"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5PZkpzc1FEaDVPS2RNQ0RyRk5wU2FHdVR3U0ZYc1NOYzdabmdL",
+      "lat": 53.65790739,
+      "lng": 23.84101465,
+      "heading": 172,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": [
+        "CAoSLEFGMVFpcFBVa1FxQTlMZmFCUV8tZlp4Mkpwb2wxYUt2b0dzZGdubDd5YUVO"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9qT0lUOEtxY0hPVk5CY1l0UTctWENVX0lTSll2T1FOME1qVU5N",
+      "lat": 53.67326385,
+      "lng": 23.85276407,
+      "heading": -27,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": [
+        "CAoSLEFGMVFpcE1RU1RnRnllQ0JMOWI0QVdUWExLMUU5TXE2bWlvTjJ0YWp5YXVh",
+        "CAoSLEFGMVFpcFBodFcwUmwzaDNnLWNJTHJpdTh0NGlwOVRKT2ZPNDFCaTZaZ0xy"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9mV1pZSWVtUlpObEVveVlBQThMamdVR1dySUJ0QmdHNF93NVNl",
+      "lat": 53.67558001522809,
+      "lng": 23.852006681263447,
+      "heading": -64,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": [
+        "CAoSLEFGMVFpcFB5V3JGRGI4TkhVdnVLQkxPdUhfMWVYLVV6X2RjdDJPM2RQQ2Rk"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1pbVp4VkQxSFRPQkpJQkxVQ3JyUmFwY1RXS0RlenVhM3JBTUx0",
+      "lat": 53.6705815,
+      "lng": 23.8033152,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE0zMmUxOTQ2SWpDdDFlcUlzci1kcWRSS3ZCaDNsUmk2djEzUjA1",
+      "lat": 53.7103147,
+      "lng": 23.8464663,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcE1WbXNrWFFwMkF6d3hFQ19XanRtUk12SzdaWEd0dEpYcmJZbVU.",
+      "lat": 53.6726853,
+      "lng": 23.831044499999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBWNVFFOFJHc3ZXZHoxX3MxWDQ5N1lONHdXQ3lpY2hha3dSN2FV",
+      "lat": 53.702397,
+      "lng": 23.818818699999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5kOTVuS1E5VW1YOHRySkU0enRJclRhcExNN3ItM0VCZVpYOFYz",
+      "lat": 53.6807787,
+      "lng": 23.8154975,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2015-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9sbUtJWlAyeGZDYThxcGNmZHpSQnpOblQ3bklHTGtteWt2ZlpP",
+      "lat": 53.65143915441744,
+      "lng": 23.80551144907372,
+      "heading": -103,
+      "pitch": 10,
+      "imageDate": "2017-10",
+      "links": [
+        "CAoSLEFGMVFpcE0xV2M4TlZjQXM0WFh1UENhLWZ3eGttUEN1SHB4ZThlMTRIT1dv"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE10cTZ3ZU1fWFduR2k3QlozMWd1UEw2MGRLcFZMYS1xTVZkY3I4",
+      "lat": 53.6608106192994,
+      "lng": 23.79042666582086,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1ncGZ3am9uaEY5X2N2SFJOVjQ0WkZnZVlGajZjZDJtZnp5OHYx",
+      "lat": 53.6825784,
+      "lng": 23.8294362,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAtQ3BnUE9PY2UzMTZvOFo3SlNwVmR5dmJHdTJoemE3VkNlN2tO",
+      "lat": 53.6631609276123,
+      "lng": 23.785004764795303,
+      "heading": -33,
+      "pitch": 10,
+      "imageDate": "2017-11",
+      "links": [
+        "CAoSLEFGMVFpcE9yWmhlWFhBeHN1azJ1VklWR2o1SjNadTI4dG1lMjhiWmxRY3kt"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1iUV9tUlYwWE1UV1NOaEhsUm85TVdVQmZDQ3V0b1E1eGN0b3hZ",
+      "lat": 53.6681574,
+      "lng": 23.843951,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1iaVBwNmtQeXRJNmNOMUxVZkZqa0QyTHN2QWcxODRnUTRON0h6",
+      "lat": 53.6811970861798,
+      "lng": 23.817060341251917,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9TbHI0dE5ERHJyelV4ZDVYZEFfUDNOVkFNUlNleW03M01HQVFy",
+      "lat": 53.67075289940331,
+      "lng": 23.807886969448,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5SZnl1SG56NmtnVkc2OVctcEJHQTFfbEZLeXB6TDlBR1RBQTd4",
+      "lat": 53.7031004,
+      "lng": 23.8425574,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2015-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBrdlJyYnBLRktndm9QSG9GRDQzbDVuc0U2M3p1XzM3ZUtRRXRR",
+      "lat": 53.657602399999995,
+      "lng": 23.792570299999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE44WUM3Q0ZmbmxZWmNWVldGc2x2UWZpR0NsLW9RcFBHT2Q2c1Zi",
+      "lat": 53.67126018,
+      "lng": 23.85458127,
+      "heading": 14,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": [
+        "CAoSLEFGMVFpcFBmZUYzQ29KajF5UXEyM042Z1FqTFVzMzRVb1lwWTM2UXVyeE9U"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9qbTNQT0xfN3I3cV9ERTJDVXljMmNvX29adWlBVHlER3UzRjZu",
+      "lat": 53.666779999999996,
+      "lng": 23.8273367,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9RSzJ3U2s0cnZnRHFyMi1acVEtVk1ZR3JfckxVYl9hNVdjamlp",
+      "lat": 53.67756560155429,
+      "lng": 23.813362754881382,
+      "heading": 97,
+      "pitch": 10,
+      "imageDate": "2019-07",
+      "links": [
+        "CAoSLEFGMVFpcFA0QndxVTBxeWJ5ckhUcTBPWW9jTzlLc2ppdW42SUl2OFFqOXNO"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1mbklpM2tQUF9GUlc3ZmZkVTVNcGVHSjRIODNtNkJTc19WXzZu",
+      "lat": 53.676184359922225,
+      "lng": 23.846876956522465,
+      "heading": -75,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": [
+        "CAoSLEFGMVFpcE5xYW5kcWgxVzdkZUc0ZjU4ZXF0dXpQVWhibnBab2d2UGl4aV9G"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9EU3UwcUJNTUxERXFxS052SnlBTjMwMms3WHJZUVRYZzBvZnBK",
+      "lat": 53.6546008,
+      "lng": 23.7881704,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA0WW5NN01lWWZRMHJmWkcwVWNrNWJqZzYtTDZnOU9Zd1JYS3po",
+      "lat": 53.678491,
+      "lng": 23.851897700000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5mZThwWHFWckg3ZE9tVFlQa0R2RlhabDJBOGNaNi1tVFBhTUVG",
+      "lat": 53.695636350787204,
+      "lng": 23.848330037856385,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-02",
+      "links": [
+        "CAoSLEFGMVFpcE1QcmFpcFFKTHBCdFhfbWF0MHFJWmFvc1ZKcGh2TndjdHk5Y1NJ"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1xaXZWWm5VTHo3U0JYR1dnWXJPMGNqRFY1MWV6T1VXcTd5YVU0",
+      "lat": 53.670282,
+      "lng": 23.836776999999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBFOG16LVZRaXhGQWM2Q2JPZFNYTWF2RmVQbUJqUmsydnUtR0tQ",
+      "lat": 53.665067399587585,
+      "lng": 23.772429367793016,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE05TzRRZjhKWEw2dmpYVVdxblQyWFFhM0hKbnBucksxNkxOMUtM",
+      "lat": 53.696976439085546,
+      "lng": 23.82115188986063,
+      "heading": -25,
+      "pitch": 10,
+      "imageDate": "2016-10",
+      "links": [
+        "CAoSLEFGMVFpcE5MbXA4QnBlWS1uWE5LRGQ3eWI1V2tZM3EtU2JCOGxYdjNkNEhm"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5OWUZOc3pHY3JHQ2VCME9ZZE51WGpaa3AwVFFtSU5INVZXQVlH",
+      "lat": 53.709846399999996,
+      "lng": 23.8171192,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5XdUNWdmpTZjN2Ulc4ak5pZy1yLUxVZWZlMDVNY1lKY3UwMHdI",
+      "lat": 52.109600099999994,
+      "lng": 23.7796427,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1YeldCX01GRXczYy1DSDcwSGNLNXdtX29kRjN4RlR3VkNLeWJS",
+      "lat": 52.09981191699787,
+      "lng": 23.70634355567422,
+      "heading": -38,
+      "pitch": 10,
+      "imageDate": "2018-07",
+      "links": [
+        "CAoSLEFGMVFpcE9VN2hoZlVUZkRUNDQ2U0pVQXlSNE5CelhnQmNScXJVZ2FISkVm"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5pQ3p6bU1saVpzV1pmNjRUMXZDM2lsclhTWHVBLTY0djZ2VHRS",
+      "lat": 52.1222765,
+      "lng": 23.6999861,
+      "heading": 46,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": [
+        "CAoSLEFGMVFpcE5QQ0xwOXdudjNXOGV3a0IxVVY0b0ZqN3VzdWJ4QmdoMFUxS0xm"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9RT3JZeEc0SlFpUmdkQW83U1RBdll6VzN1UkJqYmtaalZqWEpo",
+      "lat": 52.0503693,
+      "lng": 23.7026711,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1YZjVTU1BWZ0lKdDhkWFRSUjA4dUp4MW8tSVBIQ1pvUDhiWmlr",
+      "lat": 52.1190712,
+      "lng": 23.695934599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB1RWhDSy1KSlkxR09RVUEtZkdybTZlbkphaGMxdzl0WFRLS0RO",
+      "lat": 52.1076232,
+      "lng": 23.736258,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1TV19VMFBLSG9ybTl4TGtVdWtlMm9JVktFc0szcTRsTEFMMEF1",
+      "lat": 52.1226354,
+      "lng": 23.6628231,
+      "heading": -41,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": [
+        "CAoSLEFGMVFpcE0zdTlLaHlSU2pqZmtBdE9TN0w0akllUzNYZlExX0R5b3RlTWxq",
+        "CAoSLEFGMVFpcE9kRVBRYkEwSFB4Zlowcm1lRmxoSmJJNFFxdGhHR0Z3YkxxSmZ3"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE45RUtBZHF2ak12UUZjc3ZyY3MwTWJWYTZ6UW9hLThKVVRSdUtk",
+      "lat": 52.08172881347259,
+      "lng": 23.776695616543293,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5reDFlbmVsM3VhalFLRE1LOE8ybEMxckYwX25pZGZyblhjalB4",
+      "lat": 52.0869959,
+      "lng": 23.6453083,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5ZalU0WmN0Smt1TTItcU85d1B2Q2k0b0JmM1Z2ZzhoVks4akM2",
+      "lat": 52.09616,
+      "lng": 23.8167132,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5LUlRUWS16YXJhY0FlQzJORGhHNmp1eXNrZ1NWSGdrSUh6MFJU",
+      "lat": 52.06390878576809,
+      "lng": 23.683598242110172,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5rWUxUMTJmSURVd04zN1Q0Tnh2dnd1dXF3cE1wb1Y4MDRaNXds",
+      "lat": 52.101698799999994,
+      "lng": 23.681324,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9zSjlCcGs5OF81WjVIWlMyYmtINWltVmFBMGZtMDF0cnZnU1Fk",
+      "lat": 52.0999472,
+      "lng": 23.679275399999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB2dlVNa1h5bVRsM2hoRlpYRW9jeG5tamxMX1N3bjdoWU1kdFV3",
+      "lat": 52.071229699999996,
+      "lng": 23.7427456,
+      "heading": -128,
+      "pitch": 10,
+      "imageDate": "2020-11",
+      "links": [
+        "CAoSLEFGMVFpcE0xQUtveHdRQi1iT1MtMktxWHVJRVZHdGNsN1ZiMXdIaEtkZkNV",
+        "CAoSLEFGMVFpcE9yd3hhQkYza3A1VjhPSm9VS3ZXYUVJMnk1OWYxSmJVR0FEQ2U3"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBxcUhTdXV5Q3A3YXo3ZkNwZ0E4MVhyVXpVY2M1TDUxZmR3ZEw3",
+      "lat": 52.121998600000005,
+      "lng": 23.7531103,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5tc1RVUEFBa1pmR2tkcXFrZEd0amFQb3I2bHlWMFgzNk9teUNh",
+      "lat": 52.0911407,
+      "lng": 23.7592373,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE92MTNxVVN5a3A3OVpWay0zZDNWbVRxYUpZeXFtVjVMM0laQmlD",
+      "lat": 52.044998199999995,
+      "lng": 23.7108326,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4wWUY1RmNwLUxVclQtOXVrZjNrQnpjQVR1ZlJHdDA0RUI2NWhv",
+      "lat": 52.1082022,
+      "lng": 23.7226379,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAyaVV4MVp4ME9GWUd1N3B6ZGJJY1QtMDd4RlZfQ2tNNEtsZE1t",
+      "lat": 52.1348,
+      "lng": 23.634306,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5FNEozd3BUWjhRQ1BqM1VqZ2lPa1lDSTc3QTFQTXNnTUtnbzg0",
+      "lat": 52.0858846,
+      "lng": 23.6787209,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5XYUlxMmJfQzNDb1RBejNrcThDWldpT2trazI2azZ4dm9rOTRP",
+      "lat": 52.125919700000004,
+      "lng": 23.7567646,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1xRDNjUnRKamxUY0pLRFVoY3BReTBPbUcyOGh2d2xQMXN5N3k0",
+      "lat": 52.0635747,
+      "lng": 23.759408099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1mQ1lrOHNkd0pqYk5kQkVtcmFSSDV2RnVOajU4d2E5Z01xREVB",
+      "lat": 52.054463299999995,
+      "lng": 23.726629199999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBrcWFXMkhIVmJlU3V1eGE4X2Z0RlBjTS1uSGtRbjhnMkF3Nnp1",
+      "lat": 52.1346283,
+      "lng": 23.6390724,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5WdDBrRXR0T09aSGE4TlVnNkExRDRJX21INjU1Wl93b1dLNjRw",
+      "lat": 52.0773352,
+      "lng": 23.737185699999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9Sc1BUcFNtd1BjblFxaHU3RkxWQ3ZvclJBcnhLUGV5d2QtLTlY",
+      "lat": 52.0566788,
+      "lng": 23.6982136,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1uZTJ0MDRWczBnOWhxY0NoUGYwMU1lNzBuY29FTHFUWWRCM09U",
+      "lat": 52.118229199999995,
+      "lng": 23.722816599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBnWDdpal9XVW1iZTU5N0c1QmdIWFQ5S2Myc2dub1NUamR1YmNR",
+      "lat": 52.102490599999996,
+      "lng": 23.6494254,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1lMlp4QTJTRHdjRjM3aS1KckJ4NFR1bGx6WEhsMDA1LWNuNHNv",
+      "lat": 52.052124,
+      "lng": 23.731821099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9PVUN4cXZQWHFWamFaeWJDektJX3BHelpWUW9JbXNlMFFLNW1u",
+      "lat": 52.069529599999996,
+      "lng": 23.760641699999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1NS2lrd0V5Q0RuSFZfYUg5SDBmZHBwYTZqcllPRXUwWW0xRXd6",
+      "lat": 52.0946922794691,
+      "lng": 23.68892974465814,
+      "heading": 104,
+      "pitch": 10,
+      "imageDate": "2018-12",
+      "links": [
+        "CAoSLEFGMVFpcE11QVlBUjU0cW5oSW94bnppVXlDTzZuRkNEaVhKcEh4aGtwb2li",
+        "CAoSLEFGMVFpcE1GaEFqWm9CT3dUWm9zUnVkd1cyTHRxdmMwaVZGRkt6OUJuZFZR"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFByWWFYWFJ5UE1YV0VBVzVBUXhrWE1jTWJuREJuWUdHNEM1R0JZ",
+      "lat": 52.061352199999995,
+      "lng": 23.7456356,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBwNTVreWl3Wm9ZZnNOTXprUFU3b2UxbUFNNlRxenRuZDZzV2d3",
+      "lat": 52.0878309,
+      "lng": 23.792792199999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcFB6UFg5WmhjclN5bE12V1N5dGk3SmxaYW1WYnpmakFjclU2dW8.",
+      "lat": 52.0708811,
+      "lng": 23.6673467,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1uRGtKbDNGeGpORUlKelR2ZE5pWDgwV1ZmbGFzYlkwVVF5YXVi",
+      "lat": 52.1246309,
+      "lng": 23.7142072,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5SaUtmWnNheXlTbUZ5YXVvdXdidGZwT2JpWXVXNm5ia0N4Rm5r",
+      "lat": 52.1118132,
+      "lng": 23.687018,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBpMVFnUkFzTEdfZE9uYXR4akF3UHJjMjdHUmY2ZW1NU21CNWt3",
+      "lat": 52.0785384,
+      "lng": 23.8133669,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBCNTZUeV9OaTJJd0VkQ0lHdTdpWk0yckhfdExBM0pfdnZTQ2NI",
+      "lat": 52.0542279,
+      "lng": 23.718218099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1DTUo2OG5qWmNFQTllRzlfVVpVVGV5VlVkXzRrSjl3UWtrVEZf",
+      "lat": 52.10248555711204,
+      "lng": 23.78715455532074,
+      "heading": 102,
+      "pitch": 10,
+      "imageDate": "2018-07",
+      "links": [
+        "CAoSLEFGMVFpcE9OOV9ucU1sZjd2R0RrVGh1Uk9NbG9QZFppanAwcU5KZFMwdklR"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE95WHR1ZVNQbFJxcVNpWVhoZDVkdVhDTmVDbkhyRnpfNEZRbTJm",
+      "lat": 52.107305999999994,
+      "lng": 23.7720526,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE8tVHFZdktycmNzc0hJUUUzTF9zMW84cXFzSXZZU0hNNFI5djkw",
+      "lat": 52.08355433863636,
+      "lng": 23.660122901185076,
+      "heading": 59,
+      "pitch": 10,
+      "imageDate": "2020-09",
+      "links": [
+        "CAoSLEFGMVFpcE5ZTVhHUFNNdGJ4UU9BdUpyYWNMNmhXQlYzX01YbGVRS2FHUk5U",
+        "CAoSLEFGMVFpcFBXTUpoVFRNNEY0MzJta0hIRzNzaTc1aHR0Sll3QXo2T0FCMXlD"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBXSnJucGwxZTJHWnFBOFcxNTA2QkpNNUNyUFhtczZfXzdMc2ZM",
+      "lat": 52.1068907,
+      "lng": 23.6721991,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4zTzRDRWFvbUk1VEloOEJPb3JSRFk1VmNLbkNmZ0hyWXFjTi0z",
+      "lat": 52.101980399999995,
+      "lng": 23.6844647,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBEWHhCdHJjVWNCRk5PckczcHVXNExSUVdXdng1RjF3aE0wSDVv",
+      "lat": 52.1252517,
+      "lng": 23.74035,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5vNW9FRUw4bWU0ZFotSTV0aUZKSU5zVDZYUFVpREZLaklxckZX",
+      "lat": 52.0893593,
+      "lng": 23.74263,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9FbWxSbXdGNGxJT0ZtNzJqSnJUU3NNYlRpTFdoS1dmcDExV3pw",
+      "lat": 52.094192799999995,
+      "lng": 23.756432300000004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9TWGFWVFBzNnJxcS1qS294VWFQeTMzLVF0dXFyakFNVUhXTVpw",
+      "lat": 52.104413766156064,
+      "lng": 23.78818653523922,
+      "heading": -109,
+      "pitch": 10,
+      "imageDate": "2017-04",
+      "links": [
+        "CAoSLEFGMVFpcE9GX19IUlhIYzZKcUVucGdDNWFwbVYxaVA1MXJHZDczelo4RS1W"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1iMmZ0M2dXN3hHWjlMVTI3NUpLWTY2c09UTFdpQkN5V1pINWJx",
+      "lat": 52.0807091,
+      "lng": 23.7463482,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1yeG10VFZ5QVVveWFpeUwxNkp5enRvME9RalpVR2w3SzhMX3lO",
+      "lat": 52.1194272,
+      "lng": 23.7047701,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBqdV9DS1hfemlRVzdZbWxrTGpqQXVKLU9NRTFVZzVnQkQ5M3Zp",
+      "lat": 52.1015733,
+      "lng": 23.7580077,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5Uc0lJYlFrOFhFdDJGUXVyb1FHbHhJT19kMnc3T3FkN3JkZ2ww",
+      "lat": 52.2124191,
+      "lng": 24.371744600000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE01bjRFN1ItSVptelRwV2YwbFlZM2IwVTRtTXhjVG5xYm9ZOUM5",
+      "lat": 52.200862199999996,
+      "lng": 24.3507157,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE95cG94TkNubWhoNV92UnBScGRwekptNUdvQlZrSmZPMUtwM2hk",
+      "lat": 52.211788,
+      "lng": 24.345892,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1NN0lKOVJPVm9YZVE2ekJRbi1sZHFoN2J6NlN2UGxQcnBLZHd1",
+      "lat": 52.2130748,
+      "lng": 24.375269199999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1QNlRZWU5xSHpDZzFiTVR4VkoxdjBKOWJRRWVDUkxLX1R5YmJX",
+      "lat": 52.21385570178929,
+      "lng": 24.36321639828775,
+      "heading": -26,
+      "pitch": 10,
+      "imageDate": "2017-07",
+      "links": [
+        "CAoSLEFGMVFpcE4tblJWcWR6QTRrY1YtY2E1N1hNVGFPLVZhMVJYMkFNYzNpclQy"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE12Rm8zMmtKS2VLSkY0aldJRlMxbGVLR213SC1GYUNQSnpRSmtD",
+      "lat": 52.2080658,
+      "lng": 24.343794199999998,
+      "heading": -123,
+      "pitch": 10,
+      "imageDate": "2021-10",
+      "links": [
+        "CAoSLEFGMVFpcFBQOTVWZ2VYZ09mNzJVZGMzUDZRV2tUYklhdGFaOG9JNXdleTgx"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAzMndxWWxLczRDam1TOGhKRFhMRE1OQUdyWktkU3gwVWV6YTdi",
+      "lat": 52.2043736,
+      "lng": 24.3621935,
+      "heading": 107,
+      "pitch": 10,
+      "imageDate": "2022-01",
+      "links": [
+        "CAoSLEFGMVFpcFBLRDJqRFVadEJFRzc3ZE55T3RhNWNPWWpTS1RRRGhIYWFLMzhK"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB0SFo2dEFlSlR5bDV2R2NUSExUb3V0ZVJlQWZ0cHhOMTc3TDBl",
+      "lat": 52.2079659,
+      "lng": 24.343749199999998,
+      "heading": -44,
+      "pitch": 10,
+      "imageDate": "2021-10",
+      "links": [
+        "CAoSLEFGMVFpcFAxZnZpb0hpR1FPeG04NTQ5cjlRSFhqc1FxYW0xVzlWbl80cUp4"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBuNGtWakFYOWliVE15cmROS21hTkVRdXNlbTU1X1VWTFhmbkEt",
+      "lat": 52.213255999999994,
+      "lng": 24.374869999999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBObVdWYkpHOFdMcmxYbFdRdkVZOGN3TldKb05fUmFsenhnXzky",
+      "lat": 52.207937664357694,
+      "lng": 24.343627095222473,
+      "heading": 44,
+      "pitch": 10,
+      "imageDate": "2021-11",
+      "links": [
+        "CAoSLEFGMVFpcFBUb04tQ0lBa0ZjUmM2aXpzZTIxX2VmWGZPdlJkYlc1RllGcUxT"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE82VWhFYW0yRGZrdDBJRmtTUEZsYkFoNUhMbmZfRUlic1I1bGpK",
+      "lat": 53.0737538,
+      "lng": 25.3114486,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE00M0xsZU9CczlGdXduXzRybHdZUW40YS0tOHlYRUYzaU1nbEJZ",
+      "lat": 53.0736074,
+      "lng": 25.316066199999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5aQVNLRVRCYXdWMnRoeWpxMHdfQVVBOXdXQldtanVpbVlsYnZl",
+      "lat": 53.0901448,
+      "lng": 25.329630599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE0zazdmLWNiUGZSLUE1UVl5cjQ5TmEyUGJodGN4NExWcTNBeGM3",
+      "lat": 53.0950184,
+      "lng": 25.3228221,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBYRHBxamNudlBnUk9pNUxTYzdzUG1mNlVIYlk2M3I3T1FTUTVv",
+      "lat": 53.0812798,
+      "lng": 25.2958302,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9LNGVEUnJMY2tOVWJDT1BLd3NqbEYyMnZVX1dDcEZTN0hFeks4",
+      "lat": 53.09051810106428,
+      "lng": 25.3124341741742,
+      "heading": 103,
+      "pitch": 10,
+      "imageDate": "2013-05",
+      "links": [
+        "CAoSLEFGMVFpcFA5MzZLeFNHREp0dlpkTGhlRmVYSkpxVDVKdG95UTI5OVVKN1VH"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA0anRodWVwWURJV09fTUhpTDl1VEJzZ25BbGtjQ3hMWnM3aElj",
+      "lat": 53.08115184726595,
+      "lng": 25.309086777326115,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1rM2ZPbXJLQTUxcEpNbTMtaWJscHJOQXRKTW5tR0ZjeUlqdUJM",
+      "lat": 53.08656276,
+      "lng": 25.32179654,
+      "heading": 172,
+      "pitch": 10,
+      "imageDate": "2021-11",
+      "links": [
+        "CAoSLEFGMVFpcE1KcmZ6cmlCNlkxaDFXS3NHWGdZRVI1c0FaTHdlM0dvbmFwOFhR"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9VREtkbkVUVjczWnFjdC10SzA3MHpnMTdKcnN2VVhPVFhtNVAw",
+      "lat": 53.09649056071499,
+      "lng": 25.31529340898487,
+      "heading": 100,
+      "pitch": 10,
+      "imageDate": "2013-05",
+      "links": [
+        "CAoSLEFGMVFpcE5aSi05MGVYSEM2ZU9MVTZ1MkVsQ3h0ejVheDVndlR4NDVwNGk5"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9GQ0d5YXVZU1pJbHdxWkQxUnAtdU9FQm5DTXVRYzJmc3V1V1RJ",
+      "lat": 53.09869798364426,
+      "lng": 25.306226313112006,
+      "heading": 158,
+      "pitch": 10,
+      "imageDate": "2013-05",
+      "links": [
+        "CAoSLEFGMVFpcE13TUh0ZUUtNGRKMV84THFucWMwbjNlaV9XLVozMUNqYTZsdFJn",
+        "CAoSLEFGMVFpcE94OFhjR1hCY0swNmZyRzVub2l4UEZTcnFDelJrRW9VQl9WVjgz"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE8yWlMxRTFMRUxOa2lsUWFLNVMwaVh5X3dTbUJPaTBULWVNMnpn",
+      "lat": 53.871890699999994,
+      "lng": 25.2820777,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB2eXQ5SDc2cjBKeXJtekF3SFI0SkdBWEI4cHhCakRZalFsWDFr",
+      "lat": 53.9003575,
+      "lng": 25.3007499,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE13RmFwdXc3TFd0UHFVa0dxRVp6eWxlWmg2RnVQNjJDVlJWcjBq",
+      "lat": 53.899191161607945,
+      "lng": 25.30390487449203,
+      "heading": -159,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": [
+        "CAoSLEFGMVFpcFBZelAtQWhuOG85MFJCaTJucWJ5bFV1bXhldVlwb2pxYmVUQUFm"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1rMm13Y1ZsR3ZsVTZfUFVWd1VHUk45X3JOLUdDTUZrOUxMSnp1",
+      "lat": 53.8951111,
+      "lng": 25.2858868,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1WMkdaR1czUFBVU0tvcFZWSjhnaElqNkN3RkxwODBPRjZyaVVT",
+      "lat": 53.8876381,
+      "lng": 25.2889137,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1MM28zZHdyWUNfaVZQTUQzS3BlUUkwWGJxQXhjQk5sUTNfVGgy",
+      "lat": 53.89311218803375,
+      "lng": 25.27255055120783,
+      "heading": -18,
+      "pitch": 10,
+      "imageDate": "2017-02",
+      "links": [
+        "CAoSLEFGMVFpcE4zVGVLTzdpdUkzQmJacFJuY0UtTDhibWwySUpRalNtZzE4VHQx",
+        "CAoSLEFGMVFpcE51RFpxeU8yY0hwVVNrRW9kYWtmMlRPS0VFNVZRNmVWUTJHdjNv"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1RQ1AyUXlaRHRNX2k1d3pMRUNIVklTMmh1cG96UmUzdERUc0RH",
+      "lat": 53.903742799999996,
+      "lng": 25.3171194,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1UVHlnNGp2N0Z6cTc0aDc2YVJxX1p1d3ZUUzJwWWxxWnoyTDNV",
+      "lat": 53.898287499999995,
+      "lng": 25.2886568,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE0yV0hYZTh4eGR2YWpQMFI1a3FGTUlLdkNCWHhIS055b1k2VXFl",
+      "lat": 53.891199199999996,
+      "lng": 25.310225799999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE41NjZJY19zZm1zOTBRQ3UtRDJFb2ZURTE5VTBSTnB3eElSOURo",
+      "lat": 53.8999138,
+      "lng": 25.2591248,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE84LXBJYksteVZ5bUlnbXYyRWNwc1dpZ2RScVFwNG0tU2FkMmlD",
+      "lat": 53.6878183410232,
+      "lng": 27.12953670239183,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA0UGZ0dERTUnE4NEd4dk84VTJPTjl3eHhVMGNCcTVSRHZwemgw",
+      "lat": 53.68531858066754,
+      "lng": 27.127442546188835,
+      "heading": 155,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": [
+        "CAoSLEFGMVFpcE13Y3V4VWZuLWhBQmRWeWh5VzhURnY0MEVwRUdFblIzX19pUW93",
+        "CAoSLEFGMVFpcFBBRlRwTFVKdGliMTc5OEdidkFkcUtWcE9uX0J5VnVLaGxCOFh3"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1heUxxTDBzWE5ZNTlIZVFxS2R4S1dXS1dJRmdtNWZLOE9vd1F6",
+      "lat": 53.685259212047654,
+      "lng": 27.127389572560787,
+      "heading": 57,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": [
+        "CAoSLEFGMVFpcE9RRDBaNzFXeDRCenMtaGRsOGNyTE91ZC1oZXJiQi1FeG0xMjRv",
+        "CAoSLEFGMVFpcFBKNXl1aFhUUW9sZENPLVZGTXBKX1lrRzhkSm5fYmFzclBCc1Qz"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBBRlRwTFVKdGliMTc5OEdidkFkcUtWcE9uX0J5VnVLaGxCOFh3",
+      "lat": 53.68529038554747,
+      "lng": 27.127464003860954,
+      "heading": -120,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": [
+        "CAoSLEFGMVFpcE1WZ2s0VjhIYkVlYTZIZWFxSDhJUTI1bnVzOUlqMERsRkdQZmc0",
+        "CAoSLEFGMVFpcFA0UGZ0dERTUnE4NEd4dk84VTJPTjl3eHhVMGNCcTVSRHZwemgw"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBKNXl1aFhUUW9sZENPLVZGTXBKX1lrRzhkSm5fYmFzclBCc1Qz",
+      "lat": 53.685282046142156,
+      "lng": 27.127357721328735,
+      "heading": 53,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": [
+        "CAoSLEFGMVFpcE1heUxxTDBzWE5ZNTlIZVFxS2R4S1dXS1dJRmdtNWZLOE9vd1F6",
+        "CAoSLEFGMVFpcE43V2NOYlhtclhyaDhCN0NoTU1wUHhQV1BnNEt5RGxkd1RvMVNj"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBhWHNBZklNbzgxTjBHd21CZkNlNERxb2hvSEZLWEx0ZmRIYlp3",
+      "lat": 53.6836777,
+      "lng": 27.1278114,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBsYm5SX05sa0p4cUFmT3JNNkxEYUZMbEpKSmJmQTNjSERYaGxY",
+      "lat": 53.686703622880195,
+      "lng": 27.145014101847288,
+      "heading": -44,
+      "pitch": 10,
+      "imageDate": "2022-04",
+      "links": [
+        "CAoSLEFGMVFpcE1YcERhN00tdURpRUYzYTdld2ZEYXQyWVlMRFVHdFJhOHpmV0FE",
+        "CAoSLEFGMVFpcE5fTWFqMG5CS0FHM1JjdEp4cjVUMjJPR2RzVG9ueWZPWDA1RzlU"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE13Y3V4VWZuLWhBQmRWeWh5VzhURnY0MEVwRUdFblIzX19pUW93",
+      "lat": 53.68530547589577,
+      "lng": 27.127411030232906,
+      "heading": -127,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": [
+        "CAoSLEFGMVFpcE43V2NOYlhtclhyaDhCN0NoTU1wUHhQV1BnNEt5RGxkd1RvMVNj",
+        "CAoSLEFGMVFpcFA0UGZ0dERTUnE4NEd4dk84VTJPTjl3eHhVMGNCcTVSRHZwemgw"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9kY3ZWc2JMWlRRNWF1Qjd2XzliZ3FJc1dMa1lzYm15SlpHQWhN",
+      "lat": 54.29310280000001,
+      "lng": 26.8384279,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBrVzZtNnI4NEpXUlhZcGpUSHpMUE9Bd00wZ3ozbHhQYS1DdUp1",
+      "lat": 54.30809079969395,
+      "lng": 26.821725200163026,
+      "heading": -48,
+      "pitch": 10,
+      "imageDate": "2021-10",
+      "links": [
+        "CAoSLEFGMVFpcE1sOHlzRnF2UVEzakljbi1lZkJ4VWo3d21wQjlWRWc4V1BsOFQt"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE91MVl0TllLX3RLeURmQmxWYl92WUtwajJoYnBJY3o1QWRJazN1",
+      "lat": 54.3026238,
+      "lng": 26.853277899999966,
+      "heading": -52,
+      "pitch": 10,
+      "imageDate": "2018-10",
+      "links": [
+        "CAoSLEFGMVFpcFBwalJjQkxQS2pWNE1LanpJZHJjS2l6WG5zSEhES1BqN0s5NFJ3"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE16X0l1bW5oY3FoTlFsZ2ZNY2N1U3cyanpRenNVWHQxeXJWUTFy",
+      "lat": 54.302954808733205,
+      "lng": 26.86639116441802,
+      "heading": -129,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": [
+        "CAoSLEFGMVFpcE01UmVvazJWaWlaelFvVy12R255RU1hdzNFZWVCdXlHM25sTWxx"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB2QWEzN0ZvVlpyYWpKdWRCSEFscTF5YW1icTV2NWlieTFrMkhj",
+      "lat": 54.2939881,
+      "lng": 26.8741994,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBfRWZTMzFTcTdrT00yZjhZQVkteHh0eC1PeHVjWURKZkRjU0Rx",
+      "lat": 54.303346299999994,
+      "lng": 26.8300202,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBuLWljUEVyZVFPNWtWQWtIbHVqWTgxN3JvMWJseWxvODRSb2xf",
+      "lat": 54.3114506,
+      "lng": 26.854999099999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5Xb3U4ZVgwZ1dzdk9yX2FJNzBtZlJVdTV3ZURFV2FuUC01a2ZS",
+      "lat": 54.30900246153468,
+      "lng": 26.85630470000001,
+      "heading": -77,
+      "pitch": 10,
+      "imageDate": "2019-03",
+      "links": [
+        "CAoSLEFGMVFpcE5HVmtmZUVSYlNuLW1YYnN3NG9CSmRVeEpQTVliR1h3UjZ6NU9C",
+        "CAoSLEFGMVFpcFA0bXl3Y1lrVHZ4bUFCR19oVWZQTll2VGJqRzBYbF9UQmpvXy1f"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA5eHZzZzUyWll2XzBKRFJja2hMTmVlZjZtZkp2c1RjTDJ5OC1M",
+      "lat": 54.3003255,
+      "lng": 26.8356536,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE02SldPZ0F0LWM3eEoyWi16Q0FSWE1Jc3lMWm5BbFA5N0Y5ZEF4",
+      "lat": 54.3011315,
+      "lng": 26.8300198,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5tYlJScTU4c2tyQVAzWGVEcV9USm82YXA4M0drMmVRRERmT0FU",
+      "lat": 54.4817502,
+      "lng": 26.4027198,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE05eUZQREd5NG43WTdyeENaZWJrOEpSME1xalFBUm1tYTNKTmxX",
+      "lat": 54.4812462971378,
+      "lng": 26.407377639839574,
+      "heading": -138,
+      "pitch": 10,
+      "imageDate": "2017-06",
+      "links": [
+        "CAoSLEFGMVFpcE1icEZaX2xId0hpNVY0VmktWklJTE93NUk1dFVrVlpkaWxRb3VN"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBxc2lGNm1iQTBuX3k1MkxkQ0FCc2N2aU1DVWh0bWZPS2RybFF1",
+      "lat": 54.47496030662274,
+      "lng": 26.37432675726696,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5zVWxjVkNJVDZUMG5peUVrSG94MmR3VjJjTzByck1fUTE5Sm5z",
+      "lat": 54.48336412614856,
+      "lng": 26.387277636368292,
+      "heading": -69,
+      "pitch": 10,
+      "imageDate": "2017-01",
+      "links": [
+        "CAoSLEFGMVFpcFAxTHRjbzM3VktweVJNUG5FWTVpeFpYZm01aENleE9MbG95Y1hL"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5NcUtDc3hOYUw2UDZUb29aanBuRUR5RUlZemxhRWhwNWVRWkUy",
+      "lat": 54.477187199999996,
+      "lng": 26.3824017,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBQRHJFNkZHaGxnamxYOVZhWDZIY1NvWWZIMHdtMTN4dkJTdFU3",
+      "lat": 54.486172128164625,
+      "lng": 26.386648267507553,
+      "heading": 116,
+      "pitch": 10,
+      "imageDate": "2017-01",
+      "links": [
+        "CAoSLEFGMVFpcE45LWo2UDd0ckNBNDMwN2tORmdSY0czam5sZkt0X1JydVRrQWR4",
+        "CAoSLEFGMVFpcE9GNFczSGZBQXpWUldNaGlvNTFzRXhVRUNNZFRRdkdsNXNoTGZ0"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBfSU5hTXo5ZmZ4Yi1ENUt6a2FnaFVCWGRGdkNJT1piWGZqUkVh",
+      "lat": 54.48419570364322,
+      "lng": 26.38399511488062,
+      "heading": 115,
+      "pitch": 10,
+      "imageDate": "2017-01",
+      "links": [
+        "CAoSLEFGMVFpcFAxTHRjbzM3VktweVJNUG5FWTVpeFpYZm01aENleE9MbG95Y1hL"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1Kbzc4aDQ1emphb1RZeE9FTDFXaXdXZ1lPbmk4dnR3NmlVOFdE",
+      "lat": 54.48402787855454,
+      "lng": 26.395780614975568,
+      "heading": 117,
+      "pitch": 10,
+      "imageDate": "2017-01",
+      "links": [
+        "CAoSLEFGMVFpcE4yRkltMjV5NzdwT3VXXzZSQlVhRm5MVkgydlVIazNXbTQxSHNY"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE91dkxCNGdNWmZPQk9Uc09DWHphenQ2VjFoaF83RGxjLVJFcVda",
+      "lat": 54.475856099999994,
+      "lng": 26.4099231,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1ienhHX3otS2F1OWtFUS02dEY4UEl1T2ljS21YN2NoVEIyU0lT",
+      "lat": 54.4780974512335,
+      "lng": 26.391768821426353,
+      "heading": 112,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": [
+        "CAoSLEFGMVFpcE1uQVRCWThfT0l0NE9HblpqZFRHLWYzdzh2Q29xdG1VOEMwZVgy"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE13Zk5xLUtxalduS2ZJeUo3NGNFX1V0R2VNaU85bU91UUF4ZWNT",
+      "lat": 54.419945299999995,
+      "lng": 25.9368791,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9sU0hpaE1XTVRBRlYtQ25COVRZNlFkZ253NTBPYVF6YkFYS2ZX",
+      "lat": 54.4243318,
+      "lng": 25.9341944,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5UeUZIM1Y3TXNvZXRKUnZlZE9uTEl0ZlJabjhfMGlfdERCLU5J",
+      "lat": 54.426348999999995,
+      "lng": 25.9330255,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9TalVqaVhLZ0JrSl9uc3RvakU1ZnZmaVF5XzdQbnNpUkdQLTBl",
+      "lat": 54.4250196,
+      "lng": 25.9337587,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2015-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcE1Odnh0U3NBVDRYLXNqR0lVMnB5VHIxYjF4a1NyS0FOaGNGUTg.",
+      "lat": 54.4231591,
+      "lng": 25.9352877,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9vUzU2R3hZX2dPRW5jTksyZ1NIWWNjbmtFN1o4dnFBU3JYRnZU",
+      "lat": 54.42348059,
+      "lng": 25.93575954,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcE0telpNLVltTWdSSFJLLW5ZQWxRZTh5bkxkLUFVMDVNQThYV3c.",
+      "lat": 54.4225604,
+      "lng": 25.937961599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSK0FGMVFpcE5CQlRJaVkzcXBua3VIQnpndjBUWUZobHVrWHZNd0wwLVJhY0U.",
+      "lat": 54.4239976,
+      "lng": 25.935047899999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5fSkVhVS1oRUJER0RBaUlvMEczS0UwQnIxZ0VtbDNwMzFuR1hE",
+      "lat": 54.423245599999994,
+      "lng": 25.9353528,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBVbGZfN2hKYnBLeTJJckgyMFVFdDI5bVg5V1JNcERqem1tVEJs",
+      "lat": 54.889218899999996,
+      "lng": 27.756263699999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5VQjRRNllfQmlWaVpxa3lpYlc5UUQ3MWVZSmpXbWRlOFdWTjcx",
+      "lat": 54.8960526,
+      "lng": 27.7549578,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5JM3ZueDFKcTFhd2xkMHRHT1NxRnlDTUt5QVNQXzBTVk1zcUp3",
+      "lat": 55.4797904,
+      "lng": 28.816640899999996,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1TV2swS1JkYTRvdzlUblVhV1dublpwMDRNX2xRc0VfUFRwYzBP",
+      "lat": 55.4836555,
+      "lng": 28.7652765,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBCUjdGd2lSZUdhQnptRXIzNlNESXpKZ0hzXzdycVhvQ2w4bWtN",
+      "lat": 55.49108880047311,
+      "lng": 28.78051947802305,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1nUkxvd3NqUFd6VHczdTYwRUpCUjNWZEZTaUNWQWtXalhXWUZz",
+      "lat": 55.4878906,
+      "lng": 28.7483539,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5BMV9OMHdWeW1nT3BCekE0eXVsSFZpaVJVdVdTMUdkZXVpNy1r",
+      "lat": 55.48504465213758,
+      "lng": 28.78847390413284,
+      "heading": 90,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcE9VSGY4ZmNWbjNwTzFqRWJtUTMtcmxoOXhNTnlvU0pnSHc0WTZJ"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5VOEpBUjIyaGEwMDJZSGx4QWNEOEFlczVUVTVaWlgweXdOWEp2",
+      "lat": 55.494817299999994,
+      "lng": 28.7656993,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBrWlVpRy1VNTN5TGEzUWdMTFhORFFUSUozekl4OXJqSjJnTkNR",
+      "lat": 55.4897111,
+      "lng": 28.77683,
+      "heading": 95,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcFBjOTZOcTYyUjlfaV9sWW1kamRGaWtBZUduckw5TjRGRlQ1LU5C"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9HZ3dXWkNQczA4OUZvU1FqRG5nTkt6TnpFenBBVkNrbTlSUktw",
+      "lat": 55.485649800000004,
+      "lng": 28.758647500000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5qZjYtZnJvYlJLcFNOd1ZTWEZkUzJsR1J6ZVZ5VUxUNlp6Mkx0",
+      "lat": 55.4831573,
+      "lng": 28.799061899999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAwakpjb04tSzRzbmh4X3BfZTAxLWphZXprc0Vhb0lFVk1yQk5C",
+      "lat": 55.4840393,
+      "lng": 28.780146300000002,
+      "heading": -64,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcE9jVDFkbHlEUWMzMEJsMzc0RkpOLThMUHc4dWhNTmozNjh3cG9J"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBjLWlFRHd5WHo0UHl3b2RPMEdhUUFsOWlLa0Vwa0w1Wkk0VnQ4",
+      "lat": 55.4780066,
+      "lng": 28.7650254,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9FWjFIdE5tM1doVWRieDhzY1JYQ3ROOUx0bVZjZFNfdFZjM1Ay",
+      "lat": 55.4757889,
+      "lng": 28.783859300000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE8yTGFkVVAxNHlHZXZ2aldFUHMtZzVQbmwySUpMU1ZsSmN6WXRV",
+      "lat": 55.4921972,
+      "lng": 28.753019599999995,
+      "heading": 135,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcE5naDVXdFFacjUyQWdtNGkxbERMald2b3V0T1lLdnJSanVGclRB",
+        "CAoSLEFGMVFpcE9ZVWV3UTRZTzRxYmlqVElmXzNoMmdReWxBTnNjTEhWRkEtamRY",
+        "CAoSLEFGMVFpcFAzcXA0aWRrWVZZVEgwTTRPUm9UMnZObWFucnN4UXFlV0xUWURj"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBhTTc4YzBvMHlJSDB1TWJGbGF0eEU0cWR6TzRwYzZnNWhyYUV6",
+      "lat": 55.4787408,
+      "lng": 28.7669739,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2013-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAzblNVcUVjMnhJYk5HQjNLdHl6RDdHN3ZEZW1RQ1VpNHEzblFE",
+      "lat": 55.491257999999995,
+      "lng": 28.7820473,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE8yXzlYSklGWHhXVThzOThQdHR6Vl90ZHI5RTVYdERpNng3X0FS",
+      "lat": 55.482920899999996,
+      "lng": 28.778922599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE41Sl9UVXQ5Mzh2dkdYZnF2RHlETUJjTWNFY3YxOEhnUWNvWUpf",
+      "lat": 55.4965985,
+      "lng": 28.769411599999998,
+      "heading": -149,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcE1QRzJKLXg3cWVCUGJqN3AzR3ZiMFJhdThTM04xSUw5ZUZTRlBY",
+        "CAoSLEFGMVFpcE5WYjdMeTBhcXZrLTRyWmJudmZwZ2c0ZGRFTHZYbjlkUzNSQlk1",
+        "CAoSLEFGMVFpcE92YWNDNl9XSC1vMFlvN3FYa3A3YWtfOHRHc0NyQ0FwZnpCQzF0"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBoems5V3JnSmFHVXFodXJRYnpwNTBNWXlSTkF0V1NNcWcxT1ll",
+      "lat": 55.4915627,
+      "lng": 28.7532234,
+      "heading": 14,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": [
+        "CAoSLEFGMVFpcE44WEloX2lmVDBNOEF2Z1p1ZkhOY19IZG0tQ3dvemVNWFdQS1J2"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE92NHowQWF0dmFiX3pOTXRrTngxYTFDYTJuRlNBc2c4R1hndUpu",
+      "lat": 55.482635099999996,
+      "lng": 28.7821358,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBTMjF1MlZ3VnF2SXB6SmMwMFJHaG9BbVFhM1Y3cHJNa2dnalZa",
+      "lat": 55.485648034838064,
+      "lng": 28.791079039730818,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1ORktOV21LbGt4M1dUdE1UMllXQVYxak9Ia2RKYkZHYmRwV2xY",
+      "lat": 55.47416957515434,
+      "lng": 28.744070939719673,
+      "heading": 68,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": [
+        "CAoSLEFGMVFpcE5zelpYR1FjalBEclF3VV9JZDUzejQyQlUxTHh2N1dRdXpnVDRl",
+        "CAoSLEFGMVFpcFBGQW9OV3dNMmVQTXJFX1F2Nk5LTk5GVHNXbEw3V0RqUEhFSWlx"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5ZemFuQ1VSd2dLX2pDNVlKU193MHF1WjRjd3VpTTVGbXdWdC1h",
+      "lat": 55.496494847139815,
+      "lng": 28.76964747905731,
+      "heading": -84,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": [
+        "CAoSLEFGMVFpcE1QRzJKLXg3cWVCUGJqN3AzR3ZiMFJhdThTM04xSUw5ZUZTRlBY"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1HWWNsaXZYUXd2V3dNZ0M1eHJiU0FrZGJiRm5qUDVIdjhtcGtm",
+      "lat": 55.486686600000006,
+      "lng": 28.784096299999998,
+      "heading": 37,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcFA3WEdNX1JFTGVQdzVXT1N5cE9KbWFNSmhMMHRRZXE3dVVaYzFZ"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBPRlpZSThRYnh1V2FpYjAxS0puT2RHd1Q5VjZKV19yRXZyeTVn",
+      "lat": 55.4881763,
+      "lng": 28.779821000000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9LZkU5LTVRQ2RGRDJCeTFvOE5zRXc1WWRSTzhzeEFrTFlkX0Ux",
+      "lat": 55.48249397052892,
+      "lng": 28.78498669713736,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4wcUFVZmtvUTNzM0dRb3ZoWldKVE5hMUxYN1VZMTFrVlJQeDJX",
+      "lat": 55.48324517158514,
+      "lng": 28.77488013356924,
+      "heading": 32,
+      "pitch": 10,
+      "imageDate": "2020-07",
+      "links": [
+        "CAoSLEFGMVFpcE9XenQtQmJaRnlfLWJnRVpxVXRsQ1ZOLUd4cUtaUGk4UFdoYlJP"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBHOGpCdTZzbUh5NW9zTG80aGdpYVd1VjVobjhOYnBOa1lpcWlV",
+      "lat": 55.4976577,
+      "lng": 28.7587896,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9rSHRhbkRVdXI4dmI4d0NJSzVSODZUN2lxWVFhWTloZ2VDSnlQ",
+      "lat": 55.48706395332651,
+      "lng": 28.789038221769175,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5fSDBjSHdVaFF4cTVsbEZLWl92ZkFVc3RSbUhYdjF2Y0h1MFJv",
+      "lat": 55.4819977,
+      "lng": 28.7548757,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBxd1NWdmZTTmpZMWN4YlZGWjdmdEhxT1U3MWlFUElxU2M1c1JZ",
+      "lat": 55.4946876,
+      "lng": 28.751453200000004,
+      "heading": -81,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcE5Zb1daeTZIbl9aVklSQ0xlN2dmQVB4aG5acTRQLU5QbW5KdTJJ"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBvQ25zOVJYSXhQR3hhLVRMemxmdldFaU1XUG5lSTYyTjNwcVdl",
+      "lat": 55.1686957,
+      "lng": 30.198457599999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBjQnhxcVJ4Q0NGdDhRTUFVZEx4d05aWURoVTVxdUVpNzlzRkxG",
+      "lat": 55.158868999999996,
+      "lng": 30.211624099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1PLVVMME01U1FOZU45ZVFWYTdlbXRpZUZaNW8xSy01M0wxTGNM",
+      "lat": 55.1626901699145,
+      "lng": 30.208385971216273,
+      "heading": 48,
+      "pitch": 10,
+      "imageDate": "2020-10",
+      "links": [
+        "CAoSLEFGMVFpcE01cXRkNmV3bGh4UVlOV2lRWmJfVDdJRlZQVlQ2YUY3MWRCN0RK"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBJZm5nTjVBNTlLeFhVVHhIVU5fZk5vUU1HLWE1SjhDdHdyZE10",
+      "lat": 55.1765213,
+      "lng": 30.2370777,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9IT2lrcl9RS2NxWkpPRDFVZUo0bG1SNFhSNU1wQXZ2dnFBYzJt",
+      "lat": 55.1649104,
+      "lng": 30.1292504,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5XcmZvU3dGaE5fcjYtY096eFc5VFB5QUlxRXlxRi1BVmZ3Z3JW",
+      "lat": 55.1711246,
+      "lng": 30.242614399999997,
+      "heading": 12,
+      "pitch": 10,
+      "imageDate": "2021-10",
+      "links": [
+        "CAoSLEFGMVFpcFBfRXZiZ0U0aU4teExMUWt4Y1pWYzNWOFlDZmV5emJFWFQzczc2"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE95OW5VNklWa2NqbW5melFaU0kyTGZFZ2d2OGM2T1JLY0pLTDZp",
+      "lat": 55.180838900000005,
+      "lng": 30.191417299999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1hOE9ubmZ0Wnp2aVBLRWkzYXU0RVNtLUJEd0dmRkl2RDNfZ3M0",
+      "lat": 55.172897199999994,
+      "lng": 30.143914600000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9VS2FOc1Z1eGxETlJIZnlPQXhCNnI0RXNvREVCMUN1TDFjcUQw",
+      "lat": 55.1747131,
+      "lng": 30.2151222,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBuVTF0cEhhMjVFRU9WWVNxRExQU0w5eFlMWTdscE5nSmlyakd2",
+      "lat": 55.1972239,
+      "lng": 30.1705952,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1icGR0NlZSNWlHVC0zWlhjaWo5bnUtNGM0NWVYVHVtRHVSNlVp",
+      "lat": 55.153809599999995,
+      "lng": 30.144412100000004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE56UEt2ZlhidkEwRnZZLTNubE5Uay02akVfRTFsQjlSR1VQc0RR",
+      "lat": 55.16023,
+      "lng": 30.2406623,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5YRzFVV2VTaTU0MUlXUTZ2N3NyNy15WkFZc2VnWGFlMWJWQUFq",
+      "lat": 55.19427037992369,
+      "lng": 30.13889877962572,
+      "heading": 174,
+      "pitch": 10,
+      "imageDate": "2014-04",
+      "links": [
+        "CAoSLEFGMVFpcE5udmVyTTdMeVg5TkJrVl9KZ0xDckhZZnh5TDFvZDRsLURkOEJ6",
+        "CAoSLEFGMVFpcFBFYmV5bE1xTjFGV3E3c0JLTmhxWUVnWVBpdHdWUmVpeE1HeTNh"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9JYl9MdlN0RGNVbkxfZmFqTUJIZFBMY0tzSExRbm8yY2liWVpP",
+      "lat": 55.183373599999996,
+      "lng": 30.161742099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1kNGE4SUhWamFvcVlwYXpPXzBXdDluR2NibHJiZzN3ZXNhOVV4",
+      "lat": 55.1967924,
+      "lng": 30.1685888,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE44bXgtaVN3dDVZT1lmUC1IOGZscTBJeW1LZXRVeG9OempWcXBS",
+      "lat": 55.1977635,
+      "lng": 30.1878839,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE42VUhwSlU5YXBsNV8zb19hYmhLdUdMV001dVlQT0djcmpLLTM3",
+      "lat": 55.160385899999994,
+      "lng": 30.233849,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE91WlY3cS1iaUVYNDdoVzQ3REtuZlpTeTVhd21VM0FfQUdHYzFR",
+      "lat": 55.185859699999995,
+      "lng": 30.1911741,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5UYURBeGtwMnREM25tVzFKaTBHTUZUVEF4VGE3amRQc19OQjVL",
+      "lat": 55.1549061,
+      "lng": 30.1497222,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBiUXdHc2RLZjNsOFRvUUMzQVVhY1ZrbFBrTHFIMkxMdWJYX0VU",
+      "lat": 55.1951,
+      "lng": 30.1856169,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE8wdEw3Yl80d0syV0dIdm1BYnMxc3hENHF3eEpyN216UHFGT2VO",
+      "lat": 55.204694599999996,
+      "lng": 30.1654177,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9nSmlubDA2ajdRT29YVFJGQTRValVVNTg1OWpKTmVqbFM1WXlo",
+      "lat": 55.16060770000001,
+      "lng": 30.1690656,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE95N01QOEh1Wk5RZWhlb2huZkdYZzRNa1ZYaTJtbzRHN3BqalhI",
+      "lat": 55.1938083,
+      "lng": 30.249245,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB2RGhOazhPNThWeVRmYmt4d3NRVlF6UkdpTXhXWFFSa3I5YlA4",
+      "lat": 55.175823199999996,
+      "lng": 30.150333399999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5MWldQazJCcXpUbU1yU2hRMkppZFB6Z2Z1YkZBUGRUVW9xQUph",
+      "lat": 55.18942880790519,
+      "lng": 30.198910014262765,
+      "heading": 159,
+      "pitch": 10,
+      "imageDate": "2014-03",
+      "links": [
+        "CAoSLEFGMVFpcFBoUlpEN29sbTFrMEFLOHFsU0tUbDU2T3paYy1EdldsX0RXWFlN"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5nSm94c1JXcWdSVk1udktSSlE1VkxtbTJDZFZpSXhNLWw1aUlU",
+      "lat": 55.177912899999995,
+      "lng": 30.2014195,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBNcDZTaWhaSEI3d0lqTXJKWWNSaFVhLVdlc29oQ2VUaEtLeW92",
+      "lat": 55.176507900000004,
+      "lng": 30.221026799999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5PRTAtelFrSDQwU2hwcVE5c05mWS00SXQtLWRoZXBHZEhmMFpK",
+      "lat": 55.1845753,
+      "lng": 30.205675300000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBkazduaWhuaHlnc2M0OUJLOXB0MDFhYTlQeXZ4bW84QWxxMGIy",
+      "lat": 55.176426799999994,
+      "lng": 30.137495800000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB5RWR3WHJBM1JmRVhCNUtpamdhaDNtck5WQTJpVUk0OTlQNHpm",
+      "lat": 55.1868969,
+      "lng": 30.1964409,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5NT1pzS0hqZzRONkxPNWpnRDZuNEFvMVJtSWFiMzV4cExkWXBF",
+      "lat": 53.941001899999996,
+      "lng": 30.332235700000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2023-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5aeXZEdnVrNDk1YlF5eG42aEY0UXFxNGVRY2NBTzFqTFdOWDVm",
+      "lat": 53.8868377,
+      "lng": 30.3294017,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1TVnBnVGNoOEUtbWdTOHY1clFIa3Qzbnh0Z2xQT2MzdmtGOW9E",
+      "lat": 53.8964806,
+      "lng": 30.297102000000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBBOU91SERHU0RqTVhpY3NvelJGX0w5cmJOb2ZOakpWdjB2cHZo",
+      "lat": 53.913497899999996,
+      "lng": 30.347494100000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5tZE5sWkU1bjhFYmt2aXVyV0t3dWNxWmR5STF4a0pfOWRxTHRS",
+      "lat": 53.932213562002815,
+      "lng": 30.286244563758373,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1TTlJaX184MWdyWnJHUnBwQzhWemlDQWdTd2FHRGdTZ3MwOUlL",
+      "lat": 53.8689238,
+      "lng": 30.3236533,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE44V0s5eE8wcTM4UW1VcS1sMHRZekN5dXo3TWhNb0R6ellLS05p",
+      "lat": 53.92607977400266,
+      "lng": 30.3382908180356,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9oQVA2dmxCWmZiWXphQmpTd0tFOHU5UUptbkRUR3FRTWVRSmlK",
+      "lat": 53.917015799999994,
+      "lng": 30.351752800000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9JM3kzS3FlRTRQT2xGQThvNFdUMVNBZjR0ZGpUTEFvbm45NXlk",
+      "lat": 53.871666,
+      "lng": 30.3602772,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9Ybks0UXEtc0ZTQ1o3VjVZUGE2R2dJaGJaVmZ1VDBpbVR1TmNx",
+      "lat": 53.8811405,
+      "lng": 30.3340576,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1SbG13VzRtNG1qNG4zemtvQjZxZWdvRlV1aGtKWW5rc2hyamF4",
+      "lat": 53.90382797113017,
+      "lng": 30.368921379826308,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1TVkN0SURNMHByUmFoTHp4ZG82RF9LVDdqeGhfZGNDTHlHbVFp",
+      "lat": 53.904284469695625,
+      "lng": 30.349493215631583,
+      "heading": -47,
+      "pitch": 10,
+      "imageDate": "2019-02",
+      "links": [
+        "CAoSLEFGMVFpcE5OR0U5OEk0YmxtWUtxN1k3b2FyZDFfQ3NDQU5rWlNSUjRmU0ZZ"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5sY2FkaHdlQ09MQUEybWwybFE5bHZHWUZibGVsTzdEd0owQlZS",
+      "lat": 53.8725715,
+      "lng": 30.363603700000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE41cFhRVVdKci1xWHpMVjNTb09sTTh3ai1ic2Etd3dwQ1BELUtj",
+      "lat": 53.917921,
+      "lng": 30.311352199999995,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5fMTdhRENIRGVkMUR1QndDS0ZTN3lzcFJOOUQ2TG85QmhOX2x5",
+      "lat": 53.90671962272936,
+      "lng": 30.311694033443928,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE41NkViNzBUTmZRbDFsSEdwWHgwWDhHUENPSnZ2NUFMMjRBR0tF",
+      "lat": 53.904457099999995,
+      "lng": 30.3695545,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5nMU1SamFHYW15ay1kbGFBRElvX3hyRFBOT1NuRG8xeXlxcFF1",
+      "lat": 53.914430191758306,
+      "lng": 30.287905244343186,
+      "heading": -110,
+      "pitch": 10,
+      "imageDate": "2020-09",
+      "links": [
+        "CAoSLEFGMVFpcE9JRGd6RXZoUDNTdGlFaG1xdy05VDY1TUVYUnpkZWQ0bThQZnVR"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9GcFMzLW92VGZJOWVxOVZid0JYUERxZHVlRzR6VnFJVGU0Z1M2",
+      "lat": 53.888577899999994,
+      "lng": 30.274047399999994,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB6SFlsTzZUeVFsM28wQ25tb0hfVlVGZklNQUVvNG5sUHc4dDVG",
+      "lat": 53.8761619,
+      "lng": 30.368960400000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBnQ0E3Sk8xOGZwZGJ6RTljZ1B1WFNrWHU5UzhVQnZhWF9CVXlT",
+      "lat": 53.89939844074888,
+      "lng": 30.296525744781103,
+      "heading": 45,
+      "pitch": 10,
+      "imageDate": "2020-07",
+      "links": [
+        "CAoSLEFGMVFpcE11b0FPWWlJYWxYSWZnbi1BemRBTmptQTRvQTlaeGd5XzJYWFhw"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1zbUs5ell3OVZPcENkRnZsNl9IX0IwQi1KODgya1FURS0zTi1X",
+      "lat": 53.925456800000006,
+      "lng": 30.302414499999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2015-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1NcVI5QkpFWkwxWTZMRG9XSXBtUVhjbGdpV2FCUVF5Q3QwMzRr",
+      "lat": 53.90774755274792,
+      "lng": 30.344650757704017,
+      "heading": 162,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": [
+        "CAoSLEFGMVFpcFBqMlNTbEhFT2NaejdNUWRIb0lyeWN0dEtobzFYMVZZX1NIZm1q"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5QMzJEa3FFTC1HQTEwSE9BbnRRcWt0bW9GS0lGUWdia2R3ZkRM",
+      "lat": 53.88683603742143,
+      "lng": 30.290756847386437,
+      "heading": 64,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": [
+        "CAoSLEFGMVFpcE1oYnVJaHpoQkRVdWp4d0xWS3ZZclVBMUdLMU5aZEFJOTVKMkNt"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBlQzB6UFRvdWxGTWNhYXAyaXo5RmpQU1MyNzZPaURNX2tzS0tz",
+      "lat": 53.929348,
+      "lng": 30.288816,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2013-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE92cGpZNGh5bGtCMnZPS2FNSzB1VTlrYlRvZjlVRWRueUVWdk5V",
+      "lat": 53.9413906,
+      "lng": 30.3322495,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAtS0JaYkNTY19xVWw4aF9TNU5FUV9FX1RwblRCeHAwbmdDQVF5",
+      "lat": 53.9142637,
+      "lng": 30.3649831,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5odG1GSTI1QjJtSWFOazZWd1F3cWdlcnRzVzhITzhza2sxclls",
+      "lat": 53.90163912,
+      "lng": 30.33058048,
+      "heading": 23,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": [
+        "CAoSLEFGMVFpcFBoSkVkbmpUYkxxN05iNVdmYWZ4UmpyZi1MQndUeTUxNHE5cWZK"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9UcFVVTVFwemVRZThIUzZXWWVWVFdJNG1UYlIxZGh4SUxCQ09E",
+      "lat": 53.8815745,
+      "lng": 30.2807583,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBqM2Znel9yVWs2TVlsWkdIcHlNSVlZTVdHbWVDTnpnOFE1UHBr",
+      "lat": 53.8953171,
+      "lng": 30.3313141,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1CbmlUSnk0Y2llMFU4c09VYkUyTWM2NmpuQURqNU5XMmNLM2F4",
+      "lat": 53.884435499999995,
+      "lng": 30.319333099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE14clo2S3g4X0xrcm5ZQ1BWT2Rla1lzOVRyRUJWZkVyNmtRMGtB",
+      "lat": 53.1283163,
+      "lng": 29.179096400000002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB5ZnJEVFlyYjFCclJzdVdTVXdBajRfa0N0b2oyMXk4T2xfWDBD",
+      "lat": 53.14915,
+      "lng": 29.242490999999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBXWGg5VGpiYlNtTzdTZ0xUa3V5OGJxWHVFSEw1VkdqZ0xPelFm",
+      "lat": 53.1615894,
+      "lng": 29.242216799999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9aQjV2SVREeENEUW5hMmFtQTZsaG5aUzZNNFpVaEMzU0g1TWRK",
+      "lat": 53.136510407274585,
+      "lng": 29.203370678798002,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9PQXRQaWw1UEd6NUNDVnEyRnNuVFFnQVFNRHpNSFpQWUZVXzRQ",
+      "lat": 53.1581841,
+      "lng": 29.1984272,
+      "heading": -35,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": [
+        "CAoSLEFGMVFpcE95XzF0SG00TFlJUTdzNkdYU3VNVjFwT1FhTmtrU2RPeV9Kdi1l",
+        "CAoSLEFGMVFpcFBrSXNVRExuWDhHZnpWUmR1TVNwdDBXNU5rQ1dicnhfNmk5Q0RH"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9YX29pQTJXMnJpcm9tODJHbEp6ZnNGYjFfbDNOTndxOGw3XzZp",
+      "lat": 53.124038999999996,
+      "lng": 29.165495300000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1nMHZQNXdUWGFlRXF3WC1KT3hVWm9SLW5MTkY4ZWxDME9KaEtF",
+      "lat": 53.1429754,
+      "lng": 29.252473199999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5OaFM5Zk9LTDN2d2lPcXA2dENQRWE5S3p5RUVhaDhmcWw2TG9O",
+      "lat": 53.13608722698708,
+      "lng": 29.229597710072998,
+      "heading": -75,
+      "pitch": 10,
+      "imageDate": "2020-09",
+      "links": [
+        "CAoSLEFGMVFpcFB1YzhmNW9UOG1hYVQybUdHVm53U3pRNnVJTXhidHkxOEVfdlFs",
+        "CAoSLEFGMVFpcFBZcDR6Z25faC1YMkRKVnZwYk1sdDZoU0R1RUxkZ1ZHM185dTRY"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBvVnNZM1NYX2EwZk1FLThiYWVFU21JQTI2N3lGVVBMc0xMVmsw",
+      "lat": 53.146720099999996,
+      "lng": 29.2168649,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE85VkpKR1ZLTk10LTdLYnIxNnowZWxCbHFrY0hiSXJscXRZRVRF",
+      "lat": 53.12376330000001,
+      "lng": 29.241803299999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE05ZzBzeFRIeFhmeXZVTzRXdk9TLUFoamF4UG1Tc1BZRFNwNUl0",
+      "lat": 52.885084899999995,
+      "lng": 30.029807899999994,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9hczFPbUdYcFNLS1Q4dDRTNGI3ZzlpU3Q3dTdvVXRJZ0ZoQ0V3",
+      "lat": 52.887773499999994,
+      "lng": 30.0436686,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB5NGVtR3BKZ0JfZkJsNFk3WGI3blZnSG5xVmxmdlM2SVhiOFht",
+      "lat": 52.8855909,
+      "lng": 30.0205297,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1sUmwwdjh0SW5BT1lENzhDRkdMYkZsTV9hQWt4RHdPbHBqQm9K",
+      "lat": 52.900939799999996,
+      "lng": 30.037365899999994,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE44bTg0T0V6MXFKaXVfUUhCVTRFbWlHbjdBeWx6VDl0a2VlWmls",
+      "lat": 52.8790281,
+      "lng": 30.0236809,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5RZmludU5jc2RmNm1LRWQzSWVNdEppY1lvT05EQ2FwZ21WNkh5",
+      "lat": 52.4001716,
+      "lng": 30.985261299999994,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1hekF4UFFVN3BZN1lCcnh5WEl6Rl85VlB3VEJBdDZsQW9CNU5Y",
+      "lat": 52.431303199999995,
+      "lng": 30.975331399999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5uSGxoVDdMRi1ldi1Jdkh4WEhKV2ctZXJKOVItWkJRZndiTEtv",
+      "lat": 52.468821,
+      "lng": 30.989981799999995,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5JeTNtSFd2cjF2VFZYNm1xQ083UUNuQjNJOE1QSnY5X2VZcVBq",
+      "lat": 52.4377855,
+      "lng": 31.0325907,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1fM01obGlBdWJUQUVmMExwNDlnbXJjM1ZjZF9LTVBpa0lfS0Ey",
+      "lat": 52.45660076072347,
+      "lng": 30.959885131708802,
+      "heading": 59,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": [
+        "CAoSLEFGMVFpcE54ckVrT1VtQndGRlpxOHY3b2V5eHVSenk4bTdNZTBnZG5RRmJT"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9tT1hSTF9pRVRkSjlPai01cGt4OTNQaUFQOGZoTzgyZHE2RzdI",
+      "lat": 52.4072865,
+      "lng": 30.92570139999998,
+      "heading": -110,
+      "pitch": 10,
+      "imageDate": "2019-07",
+      "links": [
+        "CAoSLEFGMVFpcE5uNUxxaC1sSHEzcnB4ZlVOaDZwVmJ0a3FPbDM0T2JFQ1pkQ2hH"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBkMUtHMUY3ZWwyM0FFMS1YREY0VGlicjV0VkJsNG1vM2llOENX",
+      "lat": 52.395167,
+      "lng": 30.9045574,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA4aGxCekFNR2g1aWtsOE50UHRjeWQtODU4bl96RWstVk9VeHUx",
+      "lat": 52.468086799999995,
+      "lng": 31.0537697,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-03",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBJenBwdVZxTDktVDhOQmtWcWhDME96alFQS1RIN3ZjaC1YZWZ0",
+      "lat": 52.4193881,
+      "lng": 30.942598900000004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2022-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBGT0JTckc4MUFXVFJRVG9tYzgyaUVKQ0EzWVhoNkt0dkJNY0t5",
+      "lat": 52.434106899999996,
+      "lng": 30.915174999999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5yWjYxcGZQMWF1Tkp2VjdYTXhvQXFRSERnLVBmVG9CVmRDd2lt",
+      "lat": 52.419916753447716,
+      "lng": 30.96400630178698,
+      "heading": -146,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": [
+        "CAoSLEFGMVFpcE85TVgxRlF4Z2lEbkdQQ2lFcTdOZW05OFo1Tzg2ZWlqODhEeG90"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9sVy1pQ09zMlgtbFBLYmNSbWR3bTNqMDNFRTNtU2U2QUc5LVNN",
+      "lat": 52.46196108626154,
+      "lng": 30.985404040359526,
+      "heading": 41,
+      "pitch": 10,
+      "imageDate": "2019-11",
+      "links": [
+        "CAoSLEFGMVFpcFAwR19mSFZEUDREYTJWVFU5TjdLUUI2bGZkQ1lwMktOSnNhdDl5"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1SQ0xCTWJJMDAzaC12ZUtzUXJfOV9ucXBnSWh2QW1ZOWtETk5L",
+      "lat": 52.40887848068574,
+      "lng": 30.992043726146225,
+      "heading": -66,
+      "pitch": 10,
+      "imageDate": "2017-04",
+      "links": [
+        "CAoSLEFGMVFpcE04R2pYMUIxa1NZYWprRTEwRVg0Z3hlQ0VrSTlaOUpScjAxdGtK"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBNekQ5TW5zZENZdGQzNEpxRVhIRjRqYjNPMUtYOHZQNjkzVmd3",
+      "lat": 52.465793399999995,
+      "lng": 30.9688222,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE85dDdyS0lranVhMW1oZWFUSFUzYmdHVFJxLUgybkFLYTRINTZT",
+      "lat": 52.4306136,
+      "lng": 30.9641112,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE0wM2d1QzdxRzRwTWREMl9TcXA3NEJJOXVyUHhEVG81Z1F3bnpS",
+      "lat": 52.42481819242648,
+      "lng": 30.964952744543552,
+      "heading": 139,
+      "pitch": 10,
+      "imageDate": "2019-04",
+      "links": [
+        "CAoSLEFGMVFpcE55VEh4TXNPeXp2Y0dfdW5zNHczVnhEaWVqQzB5bnByaWtPR0df",
+        "CAoSLEFGMVFpcFBiMWE2bURzdG5jOXZsMVRlUVJjMmJCZ0I5ZzFqTlFJRTBZZVZ4",
+        "CAoSLEFGMVFpcFBnYVVSLXBoTEFCRHZOUFJPaFBIVTZqWGIzbmpqYVVzWWktemQ4"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFAxQWVZRUhwRzQxXzFMVV8ydThTYlozUFltbmJFSUd3TERfSmpV",
+      "lat": 52.456263,
+      "lng": 30.991197,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE02VFdwcTA1NHVfRXNlU2d5aTdxN1R4WjJOM1lRZHY1TURJU1po",
+      "lat": 52.4561883,
+      "lng": 31.001808699999994,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1vV3kyb3hjcDlrcnkyX0lLUDdPVk85YWFtRzM3TmY4d2xYWmp5",
+      "lat": 52.4080963,
+      "lng": 30.936125699999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBkSUpJZ2ZzWlBDWW5rMWZsazRxdlFzMVNGWDZhQU9NTVhaR09D",
+      "lat": 52.4179927758779,
+      "lng": 31.000858234986595,
+      "heading": 94,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": [
+        "CAoSLEFGMVFpcE1zVmFFdjd2Qk5KdjlpY2l1S2hRMjFQdXRteTU3ZFFyYXVPbGFP"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB4NklYSU1ObV9mSnFxXzQ3UjQ4QWhqZ0FEMGZocFp4dk1oVGNk",
+      "lat": 52.443508099999995,
+      "lng": 31.014244099999996,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5MWnJWNEl4T2xXZzB0Ui1KY0dDOXQyQnlWVEdUYkJMUFBHNklZ",
+      "lat": 52.4077682,
+      "lng": 30.905384100000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5aczRqaXNwMks2XzZVNnZCVEdWaXc4ZEVkM1NrNXFwNFR1VkVv",
+      "lat": 52.4272071,
+      "lng": 30.9092004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA3d1R0Y2UtSS1WQlU2X0ZEb1ZyMTVlQ0l1bEpHQk8wSDdhMHVy",
+      "lat": 52.4062524,
+      "lng": 30.954362,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9RcEptYkFmTDQ0RGl6cTZqM18zOXBZc0NZZEg5Zkx2TGFEdUtf",
+      "lat": 52.439704299999995,
+      "lng": 31.0385194,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA3RUlkTk9tTTB3MFFhcGxpMUdKVXhPcDNFY2xTZ041emVka2Z5",
+      "lat": 52.418852799999996,
+      "lng": 31.002519799999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFB2UThUY1J1RWVpd0VSVGlqdzVWX1UzZEVnTHlZVVVEdHJQVVhV",
+      "lat": 52.41401120053505,
+      "lng": 31.035020666373157,
+      "heading": 8,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": [
+        "CAoSLEFGMVFpcFBmSExxR2xnN2dEU0dUTms1d1Jid1I4WWstZ25SUUF0b2lJdFY1"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9xdWgxRVFLOUtoR0FGdnp3SlNwbWdSMjZCWkpmVmY1NGxYM3U0",
+      "lat": 52.4023038,
+      "lng": 30.9479211,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE56ejBDTHc3dV9XdkRJNmFxVmFQMXRwdXBLc2dYUzlNRExhaGhw",
+      "lat": 52.4546371,
+      "lng": 30.9913152,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5aajZLSTlGbEFQQWprZ1JOaURocjJBSkJCYXJsczdobGZKNE0x",
+      "lat": 52.458433799999995,
+      "lng": 31.006775800000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9fcUgxX1lVV0lZeF9sVXR0S002a3ZjTldMUEFjZ2FVWWdJbUFB",
+      "lat": 52.7868831,
+      "lng": 27.5103479,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9jRzNQbmhlU1RySnFJXzR3NnE4ZjNyaGxOUnhOTnRVdmhubUQ0",
+      "lat": 52.79289958608431,
+      "lng": 27.524012191243877,
+      "heading": 63,
+      "pitch": 10,
+      "imageDate": "2016-12",
+      "links": [
+        "CAoSLEFGMVFpcE56S2N2Tl81Ymd4aXQ1RDVYbzh4N1M0c2FjOXJ2WEN0d0VyVU9s",
+        "CAoSLEFGMVFpcFB1cTJFNXE3ZnNacTN6a2RmNzQwRXBkRW05cTRoak14MDYySE9s"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE96OHV1d3lVWkl5ZWZ0Ui1POXE1ZkUzRGlveVR1UDNkQW9HUVJj",
+      "lat": 52.790485499999996,
+      "lng": 27.502257399999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE52NmhaQVFqUG1GRThzdmpVMW9ieXRtbFBwMHRPaGNLVFFSSzFl",
+      "lat": 52.787210099999996,
+      "lng": 27.506517499999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-10",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1XNW9MVE53dnRLNFM3ZHU0STNCSHNWOUdBTjdkZG0zQ2VyenBj",
+      "lat": 52.791068182178684,
+      "lng": 27.509733057641707,
+      "heading": 91,
+      "pitch": 10,
+      "imageDate": "2016-12",
+      "links": [
+        "CAoSLEFGMVFpcE9QbnVvUkF4bENCV2NXRG5PbVdPdmJaa0NrUEVxWloyZk52M2dL",
+        "CAoSLEFGMVFpcFBVQm5ELXRHWjZxa1cweFBKR0lrT2NSVjEyQlN2djBUQ29xWkRx"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBnb3Y5OTFzM0hULTRQNEtaRm5tT2xmc20tVmF5XzV5YWpZS2Nh",
+      "lat": 52.3648573,
+      "lng": 30.351724299999997,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-12",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1HcmkycnVwYWJsWjk5Tk9VNl82TWZJbmF4TFVSYndmdVhDQ2V2",
+      "lat": 52.3760327,
+      "lng": 30.390100399999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9XOUxhRWxjbXh2NVh5MVFTc3N3OWNhWGtXLUM5SDJpLVJTby01",
+      "lat": 52.3559188,
+      "lng": 30.3924268,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1pd2xkNFEzM0NMa0FvaDJidFNoVFVHTXdXQ2RibjdBRU5UOV9I",
+      "lat": 52.3624729,
+      "lng": 30.4257121,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9sdTM4NkF0elhobDZYdzh1YlVkS2RiM2hmWHZ2Sk1rUlBGd3Jp",
+      "lat": 52.36927,
+      "lng": 30.4241672,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-05",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5hWUxUSU00dEVmSjNtU3lUME1BN2kzbWJsQ1dDVnpfdUg5aE5v",
+      "lat": 52.643704199999995,
+      "lng": 29.7457092,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFA1LTBjak1xYnhudHhnWkh0Q0Y3bVRzV0ZuN0tBWmRtQ1dzRC15",
+      "lat": 52.64025462328162,
+      "lng": 29.72833041763592,
+      "heading": 46,
+      "pitch": 10,
+      "imageDate": "2021-06",
+      "links": [
+        "CAoSLEFGMVFpcFBkUDlOU1Q4blNUT2ZVVmdCbkpqR0hMa096U2dVTVlGWl9pSmQ5"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE82ajg1MllpRWZuRFp5dFZLX0hsOWJ0cWt5dEtZMkltNTBVYVB0",
+      "lat": 52.6408041,
+      "lng": 29.718794100000004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBjZWcyYXRKN05jN0xXcEpMaFd1ZXR1OVpOTVViTURka0RtTnpN",
+      "lat": 52.64185214780417,
+      "lng": 29.736050739884373,
+      "heading": -153,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": [
+        "CAoSLEFGMVFpcFAyODg2ak1aRTZqUUFlc04wenRHdDNfOHk0ZFo0QV9UcUU5akxZ",
+        "CAoSLEFGMVFpcFB2alJOUFJ2b2tCWVBoRndxVlFtZDJDRGRMeUdPbG5WWnZIWUZC"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE01b3FYS25lb2hqTlFfNXV2WlJVZ2U3dzhtM1BvNnc5R25lajdW",
+      "lat": 52.6322064,
+      "lng": 29.751307599999997,
+      "heading": -116,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": [
+        "CAoSLEFGMVFpcE1ha3R3NElrSEJ1MUhYaDE3SWZ0M01vRUYxTzl0bE43RWJYX2wt",
+        "CAoSLEFGMVFpcE5fZE1GdVlQV2l3QWpLVjQ1SHhJV2c0UTJZNE9UNEtXV1hOUW9a"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9qTHpBZnFZV0VQbXlsN2RQS2JPOUlfS0dZNFNXbFNOajV0aGls",
+      "lat": 54.2063609,
+      "lng": 28.516854700000067,
+      "heading": -131,
+      "pitch": 10,
+      "imageDate": "2019-09",
+      "links": [
+        "CAoSLEFGMVFpcFBEOHIyV0hWclpJRk83OHBqU0ZPNlVpT2VHd0d1RTBnend0U3NN"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBPc2ZHSkdzWl9PZE5WYThNOUNpamIyRnB1QWpSWTNiZXVybjFj",
+      "lat": 54.2229637,
+      "lng": 28.4904057,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5sOENWOEVYY3ZXeGhpXzNoWGRvRHA1M0Rpdkk0dXg4SmFtQ1NF",
+      "lat": 54.206521363661054,
+      "lng": 28.499434031546116,
+      "heading": -77,
+      "pitch": 10,
+      "imageDate": "2020-02",
+      "links": [
+        "CAoSLEFGMVFpcFBXb0IyTFlqLUZhbDhSVUJTOXRoZ3djU1R3Y3J3YlNZTmN0VzJo"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBmbk1FZ1VsUkhMalpZY2JwRnFOZjFTRm9qQTJPRG5VMVIxaHRt",
+      "lat": 54.205135503418454,
+      "lng": 28.514615702052993,
+      "heading": 71,
+      "pitch": 10,
+      "imageDate": "2019-10",
+      "links": [
+        "CAoSLEFGMVFpcE1TWEI2enE5R3dqVkpZSXI3allhR0w0TzFiVWVFS09BRnZqQ1hk"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5NamRlTnVUeGYtQjQ1c01FMVR5aUhMdms1NDNJeHMyc1hMR0hO",
+      "lat": 54.2224295,
+      "lng": 28.4856984,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-01",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1zOFA0bTNwaTloM2NybXZvU2FpbzJHZlFERlptZ00yOXg4cXBU",
+      "lat": 54.247191303819704,
+      "lng": 28.539011006466996,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1RNm10QVFFLWx0d1RjalFkR1FydW5ja3pSTWI4cElwY1drOENP",
+      "lat": 54.2202434,
+      "lng": 28.530908699999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE00Z1g5MXJMQnJlTFRCTDU4NG8yQ0RfTTFiR0p6NDV5M2JDcHA5",
+      "lat": 54.1997681,
+      "lng": 28.4988651,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBRLXpIUWo1TkhObWhmTjIxbzdYZGpUSi02cnVWYzI2X0Rqbkdx",
+      "lat": 54.23682540000001,
+      "lng": 28.508620600000004,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2017-06",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9IZlpmbkxYY2U4R204cGFDRWk5WXQtR1VfVkxsaW9zSVBWR19o",
+      "lat": 54.21087299070693,
+      "lng": 28.511280678212643,
+      "heading": -68,
+      "pitch": 10,
+      "imageDate": "2021-01",
+      "links": [
+        "CAoSLEFGMVFpcE1ZRWFrOGdqMkJBNXRpckRVNUFWTlFySmRSamdGc1FmMmwxYkNu",
+        "CAoSLEFGMVFpcE1lNE1LWThuQ2dYYXlqRFNPbjl3Y1dPZElNMWtlWjlsU05YWko2",
+        "CAoSLEFGMVFpcE50NDBBVUJINEctNFo0LUlpR0JSMUs3dFBsOFFwVWZ1VkpjOUJr"
+      ]
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBVdDU0ZUg1RFR2dXBhbkZfbHJQZ3ZhVlpWWkF5QUs3Wl84ZGN5",
+      "lat": 55.6311111,
+      "lng": 27.0480556,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9neHV3QjNmb2gtbGhLazEzU0pvVDVyMm90TVE3d2lsbFJGYTlW",
+      "lat": 55.6417699,
+      "lng": 27.0252685,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2018-04",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9rRnFneDJad192aXNDaGpxYXNZY1JZWjY0SERPREh1N1FkcWx5",
+      "lat": 55.638137799999996,
+      "lng": 27.0414368,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-11",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE9jYUphMjdid2M2YVhzSUdiUHdpRkFVQzFJRDAyZkwzb0MyNnc2",
+      "lat": 55.637966199999994,
+      "lng": 27.0422478,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2020-09",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE5sUXFqVmM2Zm5iYW43cTExeDhtMDFJSUc3NjBjRGlTSjlGYkFm",
+      "lat": 55.6401634,
+      "lng": 27.030738799999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcFBObjZ6WnZ5QnZZcTVpMnlLY3JPVEI2Rk1fZXU2V1ZaNlJYVnFE",
+      "lat": 55.632871599999994,
+      "lng": 27.0504481,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2014-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE4wZHR1RURDc0JVNHcyVnM2X0VGTkVLd3NtVk03cE9feDAxTXFk",
+      "lat": 55.633872,
+      "lng": 27.047359399999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2016-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1rYllhaVMyRUlORTVyYnQyYW5pZTIwREtWUW1YZUVzaVpDMTZ4",
+      "lat": 55.635963399999994,
+      "lng": 27.0283661,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2021-07",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE16MGhjQ1V3eUp3Vzl4Z0x2OGRWdHUtYVFVV190M1htOS0xWEh5",
+      "lat": 55.6308784,
+      "lng": 27.054769500000003,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2019-08",
+      "links": []
+    },
+    {
+      "panoId": "CAoSLEFGMVFpcE1uTGxzanpnSW51bDRib3d6Y2xCQnl0ZFZsb1BuVkFHLW5aSEtt",
+      "lat": 55.6354731,
+      "lng": 27.030711099999998,
+      "heading": 0,
+      "pitch": 10,
+      "imageDate": "2015-05",
+      "links": []
+    }
+  ]
+
